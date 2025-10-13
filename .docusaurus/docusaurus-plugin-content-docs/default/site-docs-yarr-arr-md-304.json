@@ -1,0 +1,27 @@
+{
+  "id": "yarr/arr",
+  "title": "*arr",
+  "description": "- Follow this lol",
+  "source": "@site/docs/yarr/arr.md",
+  "sourceDirName": "yarr",
+  "slug": "/yarr/arr",
+  "permalink": "/personal-wiki/docs/yarr/arr",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "*arr"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android Apps",
+    "permalink": "/personal-wiki/docs/yarr/android-apps"
+  },
+  "next": {
+    "title": "Jellyfin",
+    "permalink": "/personal-wiki/docs/category/jellyfin"
+  }
+}

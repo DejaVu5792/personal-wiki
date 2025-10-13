@@ -1,0 +1,27 @@
+{
+  "id": "tailscale/steam-family",
+  "title": "Steam Family",
+  "description": "Steam Family",
+  "source": "@site/docs/tailscale/steam-family.mdx",
+  "sourceDirName": "tailscale",
+  "slug": "/tailscale/steam-family",
+  "permalink": "/personal-wiki/docs/tailscale/steam-family",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Steam Family"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tailscale",
+    "permalink": "/personal-wiki/docs/category/tailscale"
+  },
+  "next": {
+    "title": "Game Streaming",
+    "permalink": "/personal-wiki/docs/tailscale/game-streaming"
+  }
+}

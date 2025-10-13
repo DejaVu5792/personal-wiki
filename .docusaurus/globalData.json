@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/personal-wiki/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/personal-wiki/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/personal-wiki/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jellyfin/access",
+              "path": "/personal-wiki/docs/jellyfin/access",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "jellyfin/requesting",
+              "path": "/personal-wiki/docs/jellyfin/requesting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tailscale/game-streaming",
+              "path": "/personal-wiki/docs/tailscale/game-streaming",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tailscale/steam-family",
+              "path": "/personal-wiki/docs/tailscale/steam-family",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "yarr/android-apps",
+              "path": "/personal-wiki/docs/yarr/android-apps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "yarr/arr",
+              "path": "/personal-wiki/docs/yarr/arr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "yarr/games",
+              "path": "/personal-wiki/docs/yarr/games",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "yarr/indexes",
+              "path": "/personal-wiki/docs/yarr/indexes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "yarr/miscellaneous",
+              "path": "/personal-wiki/docs/yarr/miscellaneous",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/yarr",
+              "path": "/personal-wiki/docs/category/yarr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/jellyfin",
+              "path": "/personal-wiki/docs/category/jellyfin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tailscale",
+              "path": "/personal-wiki/docs/category/tailscale",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/personal-wiki/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

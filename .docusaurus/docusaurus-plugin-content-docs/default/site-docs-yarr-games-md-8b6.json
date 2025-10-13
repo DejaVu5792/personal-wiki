@@ -1,0 +1,39 @@
+{
+  "id": "yarr/games",
+  "title": "Games",
+  "description": "DLC Unlocker",
+  "source": "@site/docs/yarr/games.md",
+  "sourceDirName": "yarr",
+  "slug": "/yarr/games",
+  "permalink": "/personal-wiki/docs/yarr/games",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "yarr",
+      "permalink": "/personal-wiki/docs/tags/yarr"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "authors": [
+      "DejaVu"
+    ],
+    "tags": [
+      "yarr"
+    ],
+    "title": "Games",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Miscellaneous",
+    "permalink": "/personal-wiki/docs/yarr/miscellaneous"
+  },
+  "next": {
+    "title": "Android Apps",
+    "permalink": "/personal-wiki/docs/yarr/android-apps"
+  }
+}

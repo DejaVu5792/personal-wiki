@@ -1,0 +1,27 @@
+{
+  "id": "jellyfin/access",
+  "title": "Access",
+  "description": "- How? Yes",
+  "source": "@site/docs/jellyfin/access.md",
+  "sourceDirName": "jellyfin",
+  "slug": "/jellyfin/access",
+  "permalink": "/personal-wiki/docs/jellyfin/access",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Access"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jellyfin",
+    "permalink": "/personal-wiki/docs/category/jellyfin"
+  },
+  "next": {
+    "title": "Requesting TV Shows or Movies",
+    "permalink": "/personal-wiki/docs/jellyfin/requesting"
+  }
+}

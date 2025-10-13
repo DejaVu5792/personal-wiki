@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkyarr=globalThis.webpackChunkyarr||[]).push([[430],{6590:(a,e,r)=>{r.r(e),r.d(e,{default:()=>c});r(6540);var s=r(1656),h=r(4848);function c(){return(0,h.jsxs)(s.A,{children:[(0,h.jsx)("h1",{children:"My React page"}),(0,h.jsx)("p",{children:"This is a React page"})]})}}}]);
