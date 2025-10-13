@@ -1,0 +1,15 @@
+# Ignore dependencies
+node_modules
+bun.lockb
+
+# Ignore docker files
+Dockerfile
+docker-compose.yml
+
+# Ignore git history
+.git
+.gitignore
+
+# Docusaurus build artifacts
+.docusaurus
+build

@@ -1,0 +1,8 @@
+{
+  "label": "Jellyfin",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "How to access my self-hosted Jellyfin server."
+  }
+}

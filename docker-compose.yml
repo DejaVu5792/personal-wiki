@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  docusaurus-app:
+    # Build the image from the Dockerfile in the current directory
+    build: .
+    # A friendly name for the container
+    container_name: personal-wiki
+    # Map port 8080 on your local machine to port 80 in the container
+    ports:
+      - "7030:3000"
+    # Automatically restart the container if it stops
+    restart: unless-stopped
