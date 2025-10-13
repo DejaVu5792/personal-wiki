@@ -11,4 +11,5 @@ title: Access
 - Login through the credential you setup with Wizarr
 # Access through Fladder (recommended)
 - Download [Fladder](https://github.com/DonutWare/Fladder)
+- Use https://gelatin.antiparity.net/ in server URL
 - Login through the credential you setup with Wizarr
