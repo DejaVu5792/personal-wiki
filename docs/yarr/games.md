@@ -8,7 +8,7 @@ sidebar_position: 3
 ---
 
 ## DLC Unlocker
-- [CreamInstaller download : r/Creaminstaller](https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/)
+- [CreamInstaller download : r/Creaminstaller](https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/) (i have yet to test this specific links personally)
 - [Creamlinux](https://github.com/Novattz/creamlinux-installer)
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
