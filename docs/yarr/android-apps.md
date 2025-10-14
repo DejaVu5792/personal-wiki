@@ -16,8 +16,13 @@ sidebar_position: 4
 [Cloudstream](https://github.com/recloudstream/cloudstream)
 :::note
 
-- To add extensions, in URL put "megarepo" to access all extensions
-- Recommended: CineStream (CSX repo), Ultima (Phisher repo)
+- In settings (bottom right), choose extensions
+- Tap add repository (in bottom right)
+- In URL, put megarepo
+- A "Mega repository" will appear in the list of extensions, tap it
+- Download "Mega"
+- Go back to list to see every extension available
+- Recommended Extensions: CineStream (in CSX repo), Ultima (in Phisher repo)
 - [Manual](https://cloudstream.miraheze.org/wiki/Main_Page)
 
 :::

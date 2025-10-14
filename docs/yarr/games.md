@@ -27,3 +27,6 @@ This website requires login.
 ## Global Launcher
 - [Playnite](https://playnite.link/)
 - [GOG Galaxy](https://gog-games.to/)
+## Misc
+### Plants VS. Zombies: Fusion
+- https://github.com/Teyliu/PVZF-Translation
