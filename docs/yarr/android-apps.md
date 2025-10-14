@@ -8,12 +8,12 @@ sidebar_position: 4
 ---
 
 ## Auto Update directly from source (GitHub, GitLab, FDroid, etc.)
-- [Obtanium](https://github.com/ImranR98/Obtainium)
+- [Obtanium](https://github.com/ImranR98/Obtainium) ⭐
 ## Manga
 - [Kotatsu](https://kotatsu.app/)
 - [Dontatsu](https://discord.gg/dantotsu)
 ## General Media (Anime, Movies, TV Series, etc.)
-[Cloudstream](https://github.com/recloudstream/cloudstream)
+[Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
 :::note
 
 - In settings (bottom right), choose extensions

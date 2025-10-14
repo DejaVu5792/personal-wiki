@@ -12,7 +12,7 @@ sidebar_position: 3
 - [Creamlinux](https://github.com/Novattz/creamlinux-installer)
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
-- [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed)
+- [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed) ⭐
 ## Direct Download
 - [OvaGames](https://www.ovagames.com/)
 - [SteamRip](https://steamrip.com/) ([launcher for autodownload](https://ascendara.app/))
@@ -20,7 +20,7 @@ sidebar_position: 3
 - [RexaGames](https://rexagames.com/)
 - [IGG-Games](https://igg-games.com/) (LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol))
 ## Multiplayer
-- [Online Fix Me](https://online-fix.me/)
+- [Online Fix Me](https://online-fix.me/) (borked)
 :::note
 This website requires login.
 :::
@@ -28,5 +28,5 @@ This website requires login.
 - [Playnite](https://playnite.link/)
 - [GOG Galaxy](https://gog-games.to/)
 ## Misc
-### Plants VS. Zombies: Fusion
+### Plants VS. Zombies: Fusion (Android and PC versions)
 - https://github.com/Teyliu/PVZF-Translation
