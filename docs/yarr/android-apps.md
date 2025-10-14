@@ -13,7 +13,7 @@ sidebar_position: 4
 - [Kotatsu](https://kotatsu.app/)
 - [Dontatsu](https://discord.gg/dantotsu)
 ## General Media (Anime, Movies, TV Series, etc.)
-[Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
+- [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
 :::note
 
 - In settings (bottom right), choose extensions
@@ -23,6 +23,6 @@ sidebar_position: 4
 - Download "Mega"
 - Go back to list to see every extension available
 - Recommended Extensions: CineStream (in CSX repo), Ultima (in Phisher repo)
-- [Manual](https://cloudstream.miraheze.org/wiki/Main_Page)
+- [Wiki Page](https://cloudstream.miraheze.org/wiki/Main_Page) ⭐
 
 :::
