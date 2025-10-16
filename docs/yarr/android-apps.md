@@ -6,6 +6,7 @@ tags:
 title: Android Apps
 sidebar_position: 4
 ---
+List of apps that are useful for getting things.
 
 ## Auto Update directly from source (GitHub, GitLab, FDroid, etc.)
 - [Obtanium](https://github.com/ImranR98/Obtainium) ⭐

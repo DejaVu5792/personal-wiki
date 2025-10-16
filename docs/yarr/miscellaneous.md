@@ -6,6 +6,8 @@ tags:
 title: Miscellaneous
 sidebar_position: 2
 ---
+Links that I do not want to group together lol.
+
 # Specific
 
 ## Adobe and Autodesk

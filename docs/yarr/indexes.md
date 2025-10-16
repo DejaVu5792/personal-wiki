@@ -6,6 +6,7 @@ tags:
 title: Indexes/Megathread
 sidebar_position: 1
 ---
+Huge lists of where to get stuff. Basically like this wiki thing I'm doing but more professional and unopinionated.
 
 # General (Movies, Programs, etc.; basically includes everything)
 - [Free Media Heck Yeah](https://fmhy.net/) ⭐
