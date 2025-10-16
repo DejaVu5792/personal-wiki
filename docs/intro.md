@@ -13,7 +13,7 @@ List of some tools that I personally find useful.
 - [Syncthing Tray](https://github.com/Martchus/syncthingtray)
 - [SyncTrayzor](https://github.com/canton7/SyncTrayzor)
 ## Tailscale ⭐
-- https://tailscale.com/
+- [Tailscale](https://tailscale.com/)
 ## Text Editor
 - [Kate](https://kate-editor.org/get-it/)
 ## Video Trimmer
@@ -23,7 +23,7 @@ List of some tools that I personally find useful.
 - [Constrict](https://github.com/Wartybix/Constrict) (linux only, prob can run using python)
 ## Image Compressor
 - [Imagine](https://github.com/meowtec/Imagine/releases)
-- [Curtail](https://flathub.org/apps/com.github.huluti.Curtail) (Linux)
+- [Curtail](https://flathub.org/apps/com.github.huluti.Curtail) (linux)
 ## Python Package Manager
 - [uv](https://docs.astral.sh/uv/)
 ## Steam Plugins
