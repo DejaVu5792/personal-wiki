@@ -2,7 +2,7 @@
 sidebar_position: 1
 title: Useful Tools
 ---
-# Usefull Tools
+# Useful Tools
 List of some tools that I personally find useful.
 
 ⭐ means its goated
