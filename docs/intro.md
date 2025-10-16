@@ -29,7 +29,7 @@ List of some tools that I personally find useful.
 ## Steam Plugins
 - [Millennium • Steam Homebrew.](https://steambrew.app/)
 ## Game Streaming (local)
-- [Sunshine](https://app.lizardbyte.dev/Sunshine/)/[Moonlight](https://moonlight-stream.org/) or [Apollo](https://github.com/ClassicOldSong/Apollo)/[Artemis](https://github.com/ClassicOldSong/moonlight-android) 
+- [Sunshine](https://app.lizardbyte.dev/Sunshine/) & [Moonlight](https://moonlight-stream.org/) or [Apollo](https://github.com/ClassicOldSong/Apollo) & [Artemis](https://github.com/ClassicOldSong/moonlight-android) 
 :::tip[[(Setup instructions)](./tailscale/game-streaming.md)]
 :::
 ## Updater script for CLI package managers
