@@ -6,6 +6,7 @@ tags:
 title: Miscellaneous
 sidebar_position: 2
 ---
+# Miscellaneous
 Links that I do not want to group together lol.
 
 # Specific

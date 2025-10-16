@@ -2,7 +2,7 @@
 sidebar_position: 2
 title: Game Streaming
 ---
-
+# "Local" Game Streaming
 This allows you to access games or computer from anywhere.
 
 ### Setup

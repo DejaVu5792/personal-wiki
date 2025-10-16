@@ -3,9 +3,10 @@ authors:
   - DejaVu
 tags:
   - yarr
-title: Indexes/Megathread
+title: Indexes/Megathreads
 sidebar_position: 1
 ---
+# Indexes/Megathreads
 Huge lists of where to get stuff. Basically like this wiki thing I'm doing but more professional and unopinionated.
 
 # General (Movies, Programs, etc.; basically includes everything)

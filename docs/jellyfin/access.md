@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: Access
 ---
+# Accessing Jellyfin
 How to actually use my Jellyfin server.
 
 # Step 1: Get invite
