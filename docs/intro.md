@@ -7,13 +7,15 @@ List of some tools that I personally find useful.
 
 ⭐ means its goated
 
-## Torrenting
-- [qBittorent](https://www.qbittorrent.org/download)
 ## Syncthing Wrapper ⭐
 - [Syncthing Tray](https://github.com/Martchus/syncthingtray)
 - [SyncTrayzor](https://github.com/canton7/SyncTrayzor)
 ## Tailscale ⭐
 - [Tailscale](https://tailscale.com/)
+## "Ecosystem"/Phone Link ⭐
+- [KDE Connect](https://kdeconnect.kde.org/download.html)
+## Torrenting
+- [qBittorent](https://www.qbittorrent.org/download)
 ## Text Editor
 - [Kate](https://kate-editor.org/get-it/)
 ## Video Trimmer
