@@ -14,3 +14,11 @@ How to actually use my Jellyfin server.
 - Download [Fladder](https://github.com/DonutWare/Fladder)
 - Use https://gelatin.antiparity.net/ in server URL
 - Login through the credential you setup with Wizarr
+# Other Clients
+:::note
+
+When asked for a server url use `https://gelatin.antiparity.net/`
+
+:::
+- [Void](https://github.com/hritwikjohri/Void-for-jellyfin)
+
