@@ -30,6 +30,8 @@ List of some tools that I personally find useful.
 - [uv](https://docs.astral.sh/uv/)
 ## Steam Plugins
 - [Millennium • Steam Homebrew.](https://steambrew.app/)
+## Thunderstore Client
+- [Gale](https://github.com/Kesomannen/gale)
 ## Game Streaming (local)
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/) & [Moonlight](https://moonlight-stream.org/) or [Apollo](https://github.com/ClassicOldSong/Apollo) & [Artemis](https://github.com/ClassicOldSong/moonlight-android) 
 :::tip[[(Setup instructions)](./tailscale/game-streaming.md)]
