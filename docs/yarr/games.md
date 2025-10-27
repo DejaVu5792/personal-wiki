@@ -25,7 +25,7 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 - [RexaGames](https://rexagames.com/)
 - [IGG-Games](https://igg-games.com/) (LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol))
 ## Multiplayer
-- [Online Fix Me](https://online-fix.me/) (borked)
+- [Online Fix Me](https://online-fix.me/)
 :::warning[This website requires login.]
 :::
 ## Global Launcher
