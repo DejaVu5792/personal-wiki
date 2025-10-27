@@ -1,8 +1,6 @@
 ---
 authors:
   - DejaVu
-tags:
-  - yarr
 title: Android Apps
 sidebar_position: 4
 ---

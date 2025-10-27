@@ -1,8 +1,6 @@
 ---
 authors:
   - DejaVu
-tags:
-  - yarr
 title: Miscellaneous
 sidebar_position: 2
 ---
@@ -13,8 +11,8 @@ Links that I do not want to group together lol.
 
 ## Adobe and Autodesk
 - [m0nkrus](https://w16.monkrus.ws/) ⭐
-:::note
-use PB.WTF link for convenience
+:::tip
+Use PB.WTF links for a better experience.
 :::
 ## Microsoft Office and Windows Activation
 - [massgravel's MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐

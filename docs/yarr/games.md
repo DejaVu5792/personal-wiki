@@ -1,8 +1,6 @@
 ---
 authors:
   - DejaVu
-tags:
-  - yarr
 title: Games
 sidebar_position: 3
 ---

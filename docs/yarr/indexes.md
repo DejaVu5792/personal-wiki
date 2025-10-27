@@ -1,8 +1,6 @@
 ---
 authors:
   - DejaVu
-tags:
-  - yarr
 title: Indexes/Megathreads
 sidebar_position: 1
 ---
