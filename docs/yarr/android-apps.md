@@ -28,11 +28,21 @@ Some apps are more complex than just adding their links, some of these apps can 
 - Download "Mega"
 - Go back to list to see every extension available
 - Recommended Extensions: CineStream (in CSX repo), Ultima (in Phisher repo)
-  - idk if these repos still exist (been too long since i setuped cloudstream lol), look in wiki page for up to date info
+  - idk if these repos still exist (been too long since i setuped cloudstream lol), look in [wiki page](https://cloudstream.miraheze.org/wiki/List_of_extensions) for up to date info
 
 :::
 :::tip Wiki Page
 
-[Cloudstream Wiki Page](https://cloudstream.miraheze.org/wiki/Main_Page)
+[Official Wiki Page](https://recloudstream.github.io/csdocs/)
+
+[Unofficial Wiki Page (Contains Extensions and Repos instructions)](https://cloudstream.miraheze.org/wiki/Main_Page)
 
 :::
+:::tip Installing in Android TV
+
+If unable to download using browser you can make use of local send to share the APK file
+
+:::
+
+## YouTube Android TV Mod
+- [SmartTube](https://github.com/yuliskov/SmartTube?tab=readme-ov-file)
