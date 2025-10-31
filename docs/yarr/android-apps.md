@@ -28,6 +28,11 @@ Some apps are more complex than just adding their links, some of these apps can 
 - Download "Mega"
 - Go back to list to see every extension available
 - Recommended Extensions: CineStream (in CSX repo), Ultima (in Phisher repo)
-- [Wiki Page](https://cloudstream.miraheze.org/wiki/Main_Page)
+  - idk if these repos still exist (been too long since i setuped cloudstream lol), look in wiki page for up to date info
+
+:::
+:::tip Wiki Page
+
+[Cloudstream Wiki Page](https://cloudstream.miraheze.org/wiki/Main_Page)
 
 :::
