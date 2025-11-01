@@ -17,12 +17,13 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p>i do not know that im doing</p>
+        <p>i yap about random things here</p>
+        <p>these lists is opionionated so it may be wrong idk</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/yarr">
-            yarr
+            to="/docs/intro">
+            Some Useful Tools, i guess
           </Link>
         </div>
       </div>

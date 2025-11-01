@@ -9,7 +9,7 @@ List of apps that are useful for getting things.
 
 ## Auto Update directly from source (GitHub, GitLab, FDroid, etc.)
 - [Obtanium](https://github.com/ImranR98/Obtainium) ⭐
-:::tip
+:::info
 
 Some apps are more complex than just adding their links, some of these apps can be found [here](https://apps.obtainium.imranr.dev/).
 
@@ -27,11 +27,11 @@ Some apps are more complex than just adding their links, some of these apps can 
 - A "Mega repository" will appear in the list of extensions, tap it
 - Download "Mega"
 - Go back to list to see every extension available
-- Recommended Extensions: CineStream (in CSX repo), Ultima (in Phisher repo)
+- Recommended Extensions: CineStream (in Megix repo), Ultima (in Phisher repo)
   - idk if these repos still exist (been too long since i setuped cloudstream lol), look in [wiki page](https://cloudstream.miraheze.org/wiki/List_of_extensions) for up to date info
 
 :::
-:::tip Wiki Page
+:::info Wiki Pages
 
 [Official Wiki Page](https://recloudstream.github.io/csdocs/)
 
@@ -42,7 +42,15 @@ Some apps are more complex than just adding their links, some of these apps can 
 
 If unable to download using browser you can make use of local send to share the APK file
 
+[Other Methods mentioned in Wiki](https://recloudstream.github.io/csdocs/other-devices/tv/)
+
 :::
 
 ## YouTube Android TV Mod
 - [SmartTube](https://github.com/yuliskov/SmartTube?tab=readme-ov-file)
+:::tip Changing Accounts
+
+- Press profile picture seen in top left.
+- If many accounts, you can also long press the profile picture to display a list of accounts.
+
+:::
