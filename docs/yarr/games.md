@@ -13,6 +13,7 @@ Useful gaming related resources.
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
 - [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed) ⭐
+  - [Launcher for autodownload (experimental support)](https://ascendara.app/)
 :::tip
 
 Use [qBittorent](https://www.qbittorrent.org/download).
@@ -20,7 +21,8 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 :::
 ## Direct Download
 - [OvaGames](https://www.ovagames.com/)
-- [SteamRip](https://steamrip.com/) ([launcher for autodownload](https://ascendara.app/))
+- [SteamRip](https://steamrip.com/)
+  - [Launcher for autodownload](https://ascendara.app/)
 - [GOG](https://gog-games.to/)
 - [RexaGames](https://rexagames.com/)
 - [IGG-Games](https://igg-games.com/) (LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol))
