@@ -54,3 +54,6 @@ Can also work with PC to PC, and Phone to Phone
 :::
 ## Updater script for CLI package managers
 - [topgrade](https://github.com/topgrade-rs/topgrade)
+## PC Emulation (with Steam Support)
+- [Gamehub Lite](https://github.com/gamehublite/gamehub-oss/releases)
+- [Gamehub](https://gamehub.xiaoji.com/)

@@ -17,9 +17,6 @@ Some apps are more complex than just adding their links, some of these apps can 
 ## Manga
 - [Kotatsu](https://kotatsu.app/)
 - [Dontatsu](https://discord.gg/dantotsu)
-## PC Emulation (with Steam Support)
-- [Gamehub Lite](https://github.com/gamehublite/gamehub-oss/releases)
-- [Gamehub](https://gamehub.xiaoji.com/)
 ## General Media (Anime, Movies, TV Series, etc.)
 - [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
 :::note[Instructions for Repos]
