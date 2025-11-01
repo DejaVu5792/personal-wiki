@@ -7,13 +7,6 @@ sidebar_position: 4
 # Android Apps
 List of apps that are useful for getting things.
 
-## Auto Update directly from source (GitHub, GitLab, FDroid, etc.)
-- [Obtanium](https://github.com/ImranR98/Obtainium) ⭐
-:::info
-
-Some apps are more complex than just adding their links, some of these apps can be found [here](https://apps.obtainium.imranr.dev/).
-
-:::
 ## Manga
 - [Kotatsu](https://kotatsu.app/)
 - [Dontatsu](https://discord.gg/dantotsu)
