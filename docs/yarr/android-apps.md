@@ -11,6 +11,11 @@ List of apps that are useful for getting things.
 - [Kotatsu](https://kotatsu.app/) (no longer maintained)
 - [Dontatsu](https://discord.gg/dantotsu)
 - [Mihon](https://github.com/mihonapp/mihon)
+:::note
+
+[Extensions for Mihon](https://keiyoushi.github.io/extensions/)
+
+:::
 ## General Media (Anime, Movies, TV Series, etc.)
 - [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
 :::note[Instructions for Repos]
