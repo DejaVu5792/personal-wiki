@@ -44,6 +44,8 @@ Can also work with PC to PC, and Phone to Phone
 ## Image Compressor
 - [Imagine](https://github.com/meowtec/Imagine/releases)
 - [Curtail](https://flathub.org/apps/com.github.huluti.Curtail) (🐧 linux)
+## PDF Toolkit
+- [BentoPDF](https://www.bentopdf.com/#tools-header)
 ## Python Package Manager
 - [uv](https://docs.astral.sh/uv/) ⭐
 - [pixi](https://pixi.sh/latest/)
