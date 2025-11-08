@@ -14,7 +14,7 @@ List of apps that are useful for getting things.
 - [Dontatsu](https://discord.gg/dantotsu)
 :::note
 
-[Extensions for Mihon](https://keiyoushi.github.io/extensions/)
+[Extensions for Mihon and Animetail](https://keiyoushi.github.io/extensions/)
 
 [Sync server for Animetail](https://github.com/SyncYomi/SyncYomi)
 
