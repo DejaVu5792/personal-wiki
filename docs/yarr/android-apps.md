@@ -15,7 +15,13 @@ List of apps that are useful for getting things.
 :::note
 
 [Extensions for Mihon](https://keiyoushi.github.io/extensions/)
+
 [Sync server for Animetail](https://github.com/SyncYomi/SyncYomi)
+
+:::
+:::info More Extension Repo in wotaku
+
+https://wotaku.wiki/guides/ext/mihon
 
 :::
 ## General Media (Anime, Movies, TV Series, etc.)
