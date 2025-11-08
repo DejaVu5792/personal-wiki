@@ -11,6 +11,8 @@ Huge lists of where to get stuff. Basically like this wiki thing I'm doing but m
 - [Free Media Heck Yeah](https://fmhy.net/) ⭐
 - [champange](https://champagne.pages.dev/)
 # Anime, Manga, and LNs
+- [Wotaku](https://wotaku.wiki/)
 - [The Index](https://theindex.moe/)
+- [EverythingMoe](everythingmoe.com/)
 # ROMs
 - [r/ROMs Megathread](https://r-roms.github.io/)

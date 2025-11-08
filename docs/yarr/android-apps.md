@@ -8,12 +8,14 @@ sidebar_position: 4
 List of apps that are useful for getting things.
 
 ## Manga
+- [Animetail](https://github.com/Animetailapp/Animetail)
+- [Mihon](https://github.com/mihonapp/mihon)
 - [Kotatsu](https://kotatsu.app/) (no longer maintained)
 - [Dontatsu](https://discord.gg/dantotsu)
-- [Mihon](https://github.com/mihonapp/mihon)
 :::note
 
 [Extensions for Mihon](https://keiyoushi.github.io/extensions/)
+[Sync server for Animetail](https://github.com/SyncYomi/SyncYomi)
 
 :::
 ## General Media (Anime, Movies, TV Series, etc.)
