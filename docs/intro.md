@@ -34,6 +34,8 @@ Can also work with PC to PC, and Phone to Phone
 - [KDE's KRunner](https://wiki.archlinux.org/title/KRunner) (🐧 linux)
 ## Torrenting
 - [qBittorent](https://www.qbittorrent.org/download)
+## PDF Toolkit ⭐
+- [BentoPDF](https://www.bentopdf.com/#tools-header)
 ## Text Editor
 - [Kate](https://kate-editor.org/get-it/)
 ## Video Trimmer
@@ -44,8 +46,6 @@ Can also work with PC to PC, and Phone to Phone
 ## Image Compressor
 - [Imagine](https://github.com/meowtec/Imagine/releases)
 - [Curtail](https://flathub.org/apps/com.github.huluti.Curtail) (🐧 linux)
-## PDF Toolkit
-- [BentoPDF](https://www.bentopdf.com/#tools-header)
 ## Python Package Manager
 - [uv](https://docs.astral.sh/uv/) ⭐
 - [pixi](https://pixi.sh/latest/)
