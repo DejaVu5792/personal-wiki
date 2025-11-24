@@ -10,7 +10,9 @@ List of apps that are useful for getting things.
 ## Manga
 - [Animetail](https://github.com/Animetailapp/Animetail)
 - [Mihon](https://github.com/mihonapp/mihon)
-- [Kotatsu](https://kotatsu.app/) (no longer maintained)
+- [Doki](https://github.com/DokiTeam/Doki) (Successor to [Kotatsu](https://kotatsu.app/))
+  - Pre-compiled Binaries provided by one of the maintainers: https://github.com/dragonx943/build-apps/releases
+  - Can import backups from kotatsu
 - [Dontatsu](https://discord.gg/dantotsu)
 :::note
 
