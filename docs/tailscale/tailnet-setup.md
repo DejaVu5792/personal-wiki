@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Tailscale first time setup.
+title: Tailscale first time setup
 ---
 # Setting up a tailnet
 This is a fundamental step in using tailscale.
