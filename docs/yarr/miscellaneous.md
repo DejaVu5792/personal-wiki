@@ -22,8 +22,12 @@ Use PB.WTF links for a better experience.
 iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 ```
 - [Spotify Mobile | ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
+  - idk but manually patched spotify in revanced works?
 - [Spotify Downloader | OnTheSpot](https://github.com/justin025/onthespot) (currently borked)
+  - TEMP: [Fork that works with PREMIUM accounts](https://github.com/DebuggerSRT/onthespot-librespotpatch ) (would not risk) (mentioned in issue [#236](https://github.com/justin025/onthespot/issues/236))
 ## Minecraft
+(I own minecraft so haven't tested these)
+- [PrismLauncher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked)
 - [PollyMC](https://github.com/fn2006/PollyMC)
 ## General
 ### 1337x
