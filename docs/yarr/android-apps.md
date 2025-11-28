@@ -8,20 +8,22 @@ sidebar_position: 4
 List of apps that are useful for getting things.
 
 ## Manga
-- [Animetail](https://github.com/Animetailapp/Animetail)
 - [Mihon](https://github.com/mihonapp/mihon)
+  - [Animetail](https://github.com/Animetailapp/Animetail), basically glorified Mihon it has Anime support and cross-device sync.
+    - Anime extensions can be found [here](https://wotaku.wiki/guides/ext/mihon#anime). (copy URL address, Auto install button will NOT work)
+  - [Manga Extensions for Mihon and Animetail](https://keiyoushi.github.io/extensions/) (ranking of extensions can be seen [here](https://everythingmoe.com/))
+  - If need help in installing extensions there are video guides in [Wotaku](https://wotaku.wiki/guides/ext/mihon#video-guides)
 - [Doki](https://github.com/DokiTeam/Doki) (Successor to [Kotatsu](https://kotatsu.app/))
   - Pre-compiled Binaries provided by one of the maintainers: https://github.com/dragonx943/build-apps/releases
   - Can import backups from kotatsu
+  - Might rename to [Yaka](https://github.com/YAKATeam), only go to this link if Doki is gone.
 - [Dontatsu](https://discord.gg/dantotsu)
-:::note
+:::tip
 
-[Extensions for Mihon and Animetail](https://keiyoushi.github.io/extensions/)
-
-[Sync server for Animetail](https://github.com/SyncYomi/SyncYomi)
+If you have a server: [Sync server for Animetail](https://github.com/SyncYomi/SyncYomi) or just use GDrive
 
 :::
-:::info More Extension Repo in wotaku
+:::info More Extension Repos in wotaku
 
 https://wotaku.wiki/guides/ext/mihon
 
