@@ -20,12 +20,10 @@ List of apps that are useful for getting things.
 - [Dontatsu](https://discord.gg/dantotsu)
 :::tip
 
-More extensions that can be used fo Mihon/Animetail here: https://wotaku.wiki/guides/ext/mihon#repositories
-
 If you have a server: [Sync server for Animetail](https://github.com/SyncYomi/SyncYomi) or just use GDrive
 
 :::
-:::info More Extension Repos in wotaku
+:::info More Extension Repos for Mihon or Animetail in Wotaku
 
 https://wotaku.wiki/guides/ext/mihon
 
