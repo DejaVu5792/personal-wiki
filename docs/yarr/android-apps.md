@@ -8,8 +8,9 @@ sidebar_position: 4
 List of apps that are useful for getting things.
 
 ## Manga
+(ranked from preferred to good, top to bottom)
 - [Mihon](https://github.com/mihonapp/mihon)
-  - [Animetail](https://github.com/Animetailapp/Animetail), basically glorified Mihon it has Anime support and cross-device sync.
+  - [Animetail](https://github.com/Animetailapp/Animetail) ⭐, basically glorified Mihon it has Anime support and cross-device sync.
     - Anime extensions can be found [here](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo). (copy URL address, Auto install button will NOT work)
   - [Manga Extensions for Mihon and Animetail](https://keiyoushi.github.io/extensions/) (ranking of extensions can be seen [here](https://everythingmoe.com/))
   - If need help in installing extensions there are video guides in [Wotaku](https://wotaku.wiki/guides/ext/mihon#video-guides)
