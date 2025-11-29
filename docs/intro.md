@@ -27,6 +27,9 @@ Syncthing is peer-to-peer file synchronization utility, installing it standalone
 Can also work with PC to PC, and Phone to Phone
 
 :::
+## [Samsung Good Luck in non-flagship Samsung Devices](https://sites.google.com/view/nicelockdownloader/)
+- [NiceLock](https://xdaforums.com/t/app-v2-8-20-03-nicelock-good-lock-2020-launcher-w-update-notifications.3908648/)
+- [NiceLock Downloader Companion](https://xdaforums.com/t/nicelock-downloader-companion-app-v2-16-manual-download-links-thread.3923844/)
 ## Launcher/Spotlight
 - [Kando Pie Menu](https://github.com/kando-menu/kando)
 - [PowerToys Run](https://github.com/microsoft/PowerToys/) 
