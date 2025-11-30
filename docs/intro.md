@@ -73,7 +73,8 @@ Some apps are more complex than just adding their links, some of these apps can 
 - [Gale](https://github.com/Kesomannen/gale) ⭐
 - [r2modman](https://github.com/ebkr/r2modmanPlus/)
 ### PC Emulation in Android (with Steam Support)
-- [Gamehub Lite](https://github.com/gamehublite/gamehub-oss/releases) ⭐
+- [Gamehub Lite](https://github.com/Producdevity/gamehub-lite) ⭐
+    - [OG link](https://github.com/gamehublite/gamehub-oss/releases) (unmaintained)
 - [Gamehub](https://gamehub.xiaoji.com/)
 :::note
 
