@@ -68,7 +68,7 @@ const config: Config = {
           label: 'Docs',
         },
         {
-          href: 'https://github.com/DejaVu42069/personal-wiki',
+          href: 'https://github.com/DejaVu5792/personal-wiki',
           label: 'GitHub',
           position: 'right',
         },
