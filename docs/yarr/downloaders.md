@@ -10,6 +10,11 @@ Download tools from various websites
 CLI means "command line interface", requires the use of a terminal (think of minecraft commands but for computer)
 
 :::
+:::note
+
+If you don't know what docker is then don't use the entry
+
+:::
 ## General use downloader
 ### Android App
 - [YTDLnis](https://github.com/deniscerri/ytdlnis) ⭐
@@ -23,6 +28,20 @@ CLI means "command line interface", requires the use of a terminal (think of min
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ## Music Specific
+- [Soulseek | Nicotine+](https://github.com/nicotine-plus/nicotine-plus)
+- [Soulseek | slskd](https://github.com/slskd/slskd)
+    - Requires docker knowledge
+- [Soulseek | slsk-batchdl](https://github.com/fiso64/slsk-batchdl)
+    - Has M3U (playlist) export support
+:::note
+
+Soulseek is basically torrent but specific to music, it's like modern limewire
+
+has good FLAC stuff
+
+(can also do other stuff like ebooks and others)
+
+:::
 - [Spotify | OnTheSpot](https://github.com/justin025/onthespot)
     - Has M3U (playlist) export support
     - Currently requires a premium account iirc (ensure use of alt account)
@@ -30,6 +49,7 @@ CLI means "command line interface", requires the use of a terminal (think of min
 - [Spotify | Spotizerr](https://lavaforge.org/spotizerrphoenix/spotizerr-phoenix/)
     - Has M3U (playlist) export support
     - Requires docker knowledge
+- 
 ### Music tagger
 - [Musicbrainz Picard](https://picard.musicbrainz.org/) ⭐
 - [beets (CLI)](https://github.com/beetbox/beets)
