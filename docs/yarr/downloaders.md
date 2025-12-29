@@ -49,7 +49,6 @@ has good FLAC stuff
 - [Spotify | Spotizerr](https://lavaforge.org/spotizerrphoenix/spotizerr-phoenix/)
     - Has M3U (playlist) export support
     - Requires docker knowledge
-- 
 ### Music tagger
 - [Musicbrainz Picard](https://picard.musicbrainz.org/) ⭐
 - [beets (CLI)](https://github.com/beetbox/beets)
