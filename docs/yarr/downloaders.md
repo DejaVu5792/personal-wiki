@@ -21,9 +21,6 @@ If you don't know what docker is then don't use the entry
 - [Seal](https://github.com/JunkFood02/Seal)
 ### Website
 - [Cobalt](https://cobalt.tools/) ⭐
-- [Lidarr](https://github.com/Lidarr/Lidarr) with [Tubifarry](https://github.com/TypNull/Tubifarry)
-    - Requires docker knowledge
-    - Focuses in mass album of artist downloads
 ### CLI
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
@@ -51,6 +48,9 @@ Account will expire if not used, and any other person can take it. (just make an
 Soulseek community hates leachers, upload stuff if you can. Most files is just publicly available tho so you can leach if you want.
 
 :::
+- [Lidarr](https://github.com/Lidarr/Lidarr) with [Tubifarry](https://github.com/TypNull/Tubifarry)
+    - Requires docker knowledge
+    - Focuses in mass album of artist downloads
 - [Spotify | OnTheSpot](https://github.com/justin025/onthespot)
     - Has M3U (playlist) export support
     - Currently requires a premium account iirc (ensure use of alt account)
