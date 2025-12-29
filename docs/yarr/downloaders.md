@@ -26,7 +26,7 @@ CLI means "command line interface", requires the use of a terminal (think of min
 - [Spotify | OnTheSpot](https://github.com/justin025/onthespot)
     - Has M3U (playlist) export support
     - Currently requires a premium account iirc (ensure use of alt account)
-        - For ease of alt account use a email alias service like [addy.io](addy.io)
+        - For ease of alt account use a email alias service like [addy.io](https://www.addy.io)
 - [Spotify | Spotizerr](https://lavaforge.org/spotizerrphoenix/spotizerr-phoenix/)
     - Has M3U (playlist) export support
     - Requires docker knowledge
