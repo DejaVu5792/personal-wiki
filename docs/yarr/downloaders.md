@@ -42,6 +42,15 @@ has good FLAC stuff
 (can also do other stuff like ebooks and others)
 
 :::
+:::tip
+
+To get started with soulseek enter a username and password, no registration needed.
+
+Account will expire if not used, and any other person can take it. (just make another lol)
+
+Soulseek community hates leachers, upload stuff if you can. Most files is just publicly available tho so you can leach if you want.
+
+:::
 - [Spotify | OnTheSpot](https://github.com/justin025/onthespot)
     - Has M3U (playlist) export support
     - Currently requires a premium account iirc (ensure use of alt account)
