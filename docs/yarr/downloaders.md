@@ -21,6 +21,7 @@ If you don't know what docker is then don't use the entry
 - [Seal](https://github.com/JunkFood02/Seal)
 ### Website
 - [Cobalt](https://cobalt.tools/) ⭐
+    - Currently YouTube support is borked, requiring a self-hosted instance
 ### CLI
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
