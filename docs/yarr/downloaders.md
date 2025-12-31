@@ -25,6 +25,16 @@ If you don't know what docker is then don't use the entry
 ### CLI
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
+:::tip
+
+Good CLI template:
+```bash
+yt-dlp -f "bestaudio/best" --extract-audio --audio-format opus --audio-quality 0 --add-metadata --embed-thumbnail --parse-metadata "playlist_index:%(track_number)s" -o "%(album_artist,uploader).50s/%(album).50s/%(playlist_index)02d - %(title).100s.%(ext)s" URLHERE
+```
+Replace `URLHERE` with the URL of a playlist, album, or a song from YouTube Music
+
+:::
+
 ## Music Specific
 - [Soulseek | Nicotine+](https://github.com/nicotine-plus/nicotine-plus)
 - [Soulseek | slskd](https://github.com/slskd/slskd)
