@@ -25,7 +25,9 @@ If you have a server: [Sync server for Komikku or Animetail](https://github.com/
 :::
 :::info Extension Repos for Mihon, Komikku, or Animetail in Wotaku
 
-[See Wotaku or EverythingMoe linked here](/docs/yarr/indexes)
+Extensions list: https://wotaku.wiki/guides/ext/mihon
+
+[For more resources see Wotaku or EverythingMoe linked here](/docs/yarr/indexes)
 
 :::
 ## General Media (Anime, Movies, TV Series, etc.)
