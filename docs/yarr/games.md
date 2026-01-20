@@ -40,3 +40,5 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 :::
 ### Plants VS. Zombies: Fusion (Android and PC versions)
 - https://github.com/Teyliu/PVZF-Translation
+### Hytale
+- https://github.com/yyyumeniku/HyPrism
