@@ -12,7 +12,7 @@ Huge lists of where to get stuff. Basically like this wiki thing I'm doing but m
 - [champange](https://champagne.pages.dev/)
 # Anime, Manga, and LNs
 - [Wotaku](https://wotaku.wiki/)
-- [The Index](https://theindex.moe/)
 - [EverythingMoe](https://everythingmoe.com/)
+- [The Index](https://theindex.moe/)
 # ROMs
 - [r/ROMs Megathread](https://r-roms.github.io/)
