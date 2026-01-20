@@ -10,9 +10,10 @@ List of apps that are useful for getting things.
 ## Manga
 (ranked from preferred to good, top to bottom)
 - [Mihon](https://github.com/mihonapp/mihon)
-  - [Animetail](https://github.com/Animetailapp/Animetail) ⭐, basically glorified Mihon it has Anime support and cross-device sync.
+  - [Komikku](https://komikku-app.github.io/) ⭐, basically glorified Mihon it has Anime support and cross-device sync.
+  - [Animetail](https://github.com/Animetailapp/Animetail), basically glorified Mihon it has Anime support and cross-device sync.
     - Anime extensions can be found [here](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo). (copy URL address, Auto install button will NOT work)
-  - [Manga Extensions for Mihon and Animetail](https://keiyoushi.github.io/extensions/) (ranking of extensions can be seen [here](https://everythingmoe.com/))
+  - [Manga Extensions for Mihon, Komikku, and Animetail](https://keiyoushi.github.io/extensions/) (ranking of extensions can be seen [here](https://everythingmoe.com/))
   - If need help in installing extensions there are video guides in [Wotaku](https://wotaku.wiki/guides/ext/mihon#video-guides)
 - [Doki](https://github.com/DokiTeam/Doki) (Successor to [Kotatsu](https://kotatsu.app/))
   - Can import backups from kotatsu
@@ -20,7 +21,7 @@ List of apps that are useful for getting things.
 - [Dontatsu](https://discord.gg/dantotsu)
 :::tip
 
-If you have a server: [Sync server for Animetail](https://github.com/SyncYomi/SyncYomi) or just use GDrive
+If you have a server: [Sync server for Komikku or Animetail](https://github.com/SyncYomi/SyncYomi) or just use GDrive
 
 :::
 :::info More Extension Repos for Mihon or Animetail in Wotaku
