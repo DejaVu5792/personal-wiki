@@ -69,7 +69,7 @@ Soulseek community hates leachers, upload stuff if you can. Most files is just p
 - [Spotify | Spotizerr](https://lavaforge.org/spotizerrphoenix/spotizerr-phoenix/)
     - Has M3U (playlist) export support
     - Requires docker knowledge
-- ["Spotify" | Spotiflac](https://github.com/afkarxyz/SpotiFLAC) (borked)
+- ["Spotify" | Spotiflac](https://github.com/spotiverse/SpotiFLAC-Next)
     - Gets audio from Tidal, Qobuz, and Amazon Music
     - Only FLAC files
 - [Squid.wtf](https://squid.wtf/)
