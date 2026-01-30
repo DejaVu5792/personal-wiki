@@ -7,6 +7,10 @@ sidebar_position: 4
 # Android Apps
 List of apps that are useful for getting things.
 
+## Modded APKs
+- [Mobilism](http://mobilism.org/)
+  - [Mirror link](https://mobilism.me/)
+
 ## Manga
 (ranked from preferred to good, top to bottom)
 - [Mihon](https://github.com/mihonapp/mihon)
