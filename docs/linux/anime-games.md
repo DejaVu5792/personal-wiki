@@ -62,17 +62,23 @@ Mouse cursor is currently bugged, offset by a little bit. Look for button highli
 - [Set runner to DWProton](./anime-games#setting-runner)
 - Ready to Play 😀
 #### Fix bug where game would blur after normal attacking
-- Install winetricks
-- Determine where wineprefix is located
-    - For Steam use protonfixes to determine game ID (you can use `uvx protontricks`)
-    ![](../../static/img/hsr-blur/protontricks.png)
-    - Look for the ID in path: " ~/.local/share/Steam/steamapps/compatdata"
-    - Add this path (with the ID) to you clipboard
-- Run in terminal (replace `/path/to/prefix` with your prefix path):
+1. Use protonfixes to determine game ID (you can use `uvx protontricks`)
+```bash
+protontricks --list
 ```
-WINEPREFIX=/path/to/prefix winetricks -q -f mfc140
+:::note
+```bash
+protontricks --list
+Non-Steam shortcut: Honkai: Star Rail (3251622364)
 ```
 
+Where: `3251622364` is the Game ID
+
+:::
+2. Install mfc140, replace `gameid` with the output in protontricks
+```bash
+protontricks <gameid> mfc140
+```
 
 ## Arknights Endfield
 - Download launcher at:
