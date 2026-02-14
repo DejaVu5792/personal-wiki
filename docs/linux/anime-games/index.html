@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.9.2">
 <title data-rh="true">Anime Games | DegaSite</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://your-docusaurus-site.example.com/personal-wiki/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://your-docusaurus-site.example.com/personal-wiki/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://your-docusaurus-site.example.com/personal-wiki/docs/linux/anime-games"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Anime Games | DegaSite"><meta data-rh="true" name="description" content="Documentation on how I play gacha slop anime games."><meta data-rh="true" property="og:description" content="Documentation on how I play gacha slop anime games."><link data-rh="true" rel="icon" href="/personal-wiki/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://your-docusaurus-site.example.com/personal-wiki/docs/linux/anime-games"><link data-rh="true" rel="alternate" href="https://your-docusaurus-site.example.com/personal-wiki/docs/linux/anime-games" hreflang="en"><link data-rh="true" rel="alternate" href="https://your-docusaurus-site.example.com/personal-wiki/docs/linux/anime-games" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Linux","item":"https://your-docusaurus-site.example.com/personal-wiki/docs/linux/"},{"@type":"ListItem","position":2,"name":"Anime Games","item":"https://your-docusaurus-site.example.com/personal-wiki/docs/linux/anime-games"}]}</script><link rel="stylesheet" href="/personal-wiki/assets/css/styles.5a9ec9df.css">
-<script src="/personal-wiki/assets/js/runtime~main.6c8735e5.js" defer="defer"></script>
+<script src="/personal-wiki/assets/js/runtime~main.9d282212.js" defer="defer"></script>
 <script src="/personal-wiki/assets/js/main.58d40332.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -81,19 +81,15 @@
 <li class="">Ready to Play 😀</li>
 </ul>
 <h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="fix-bug-where-game-would-blur-after-normal-attacking">Fix bug where game would blur after normal attacking<a href="#fix-bug-where-game-would-blur-after-normal-attacking" class="hash-link" aria-label="Direct link to Fix bug where game would blur after normal attacking" title="Direct link to Fix bug where game would blur after normal attacking" translate="no">​</a></h4>
-<ul>
-<li class="">Install winetricks</li>
-<li class="">Determine where wineprefix is located<!-- -->
-<ul>
-<li class="">For Steam use protonfixes to determine game ID (you can use <code>uvx protontricks</code>)
-<img decoding="async" loading="lazy" src="/personal-wiki/assets/images/protontricks-e0ef5e28e96597717995952a55d95afe.png" width="600" height="178" class="img_ev3q"></li>
-<li class="">Look for the ID in path: &quot; ~/.local/share/Steam/steamapps/compatdata&quot;</li>
-<li class="">Add this path (with the ID) to you clipboard</li>
-</ul>
-</li>
-<li class="">Run in terminal (replace <code>/path/to/prefix</code> with your prefix path):</li>
-</ul>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">WINEPREFIX=/path/to/prefix winetricks -q -f mfc140</span><br></span></code></pre></div></div>
+<ol>
+<li class="">Use protonfixes to determine game ID (you can use <code>uvx protontricks</code>)</li>
+</ol>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">protontricks --list</span><br></span></code></pre></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>note</div><div class="admonitionContent_BuS1"><div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">protontricks --list</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Non-Steam shortcut: Honkai: Star Rail (3251622364)</span><br></span></code></pre></div></div><p>Where: <code>3251622364</code> is the Game ID</p></div></div>
+<ol start="2">
+<li class="">Install mfc140, replace <code>gameid</code> with the output in protontricks</li>
+</ol>
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">protontricks &lt;gameid&gt; mfc140</span><br></span></code></pre></div></div>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="arknights-endfield">Arknights Endfield<a href="#arknights-endfield" class="hash-link" aria-label="Direct link to Arknights Endfield" title="Direct link to Arknights Endfield" translate="no">​</a></h2>
 <ul>
 <li class="">Download launcher at:</li>
