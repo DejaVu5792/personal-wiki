@@ -48,23 +48,23 @@ Mouse cursor is currently bugged, offset by a little bit. Look for button highli
 
 ### Genshin Impact and Zenless Zone Zero
 - Locate installation from hoyoplay
-- Add as non-steam game
-- Set runner to DWProton
+- Add as [non-steam game](./anime-games#adding-non-steam-game)
+- [Set runner to DWProton](./anime-games#setting-runner)
 - Ready to Play 😀
 
 ### Honkai: Star Rail
 - Locate installation from hoyoplay
-- Add as non-steam game
+- Add as [non-steam game](./anime-games#adding-non-steam-game)
 - Download [Jadeite](https://codeberg.org/mkrsym1/jadeite)
 - In Steam TARGET set it to:
 ```
 "/path/to/jadeite.exe" "/path/to/StarRail.exe"
 ```
-- Set runner to DWProton
+- [Set runner to DWProton](./anime-games#setting-runner)
 - Ready to Play 😀
 
 
-## Arknights:Endfield
+## Arknights Endfield
 - Download launcher at:
 
 https://endfield.gryphline.com/en-us#home
@@ -72,12 +72,12 @@ https://endfield.gryphline.com/en-us#home
 - Install launcher through WINE/Bottles/Steam
     - wine is simplest
 - Download and Install game
-- Add game as non-steam
+- Add as [non-steam game](./anime-games#adding-non-steam-game)
     - Game Path:
     ```
     /path/to/GRYPHLINK/games/EndField Game/Endfield.exe
     ```
-- Set runner to DWProton
+- [Set runner to DWProton](./anime-games#setting-runner)
 - Ready to Play 😀
 
 ## Wuthering Waves
