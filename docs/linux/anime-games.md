@@ -63,12 +63,6 @@ Mouse cursor is currently bugged, offset by a little bit. Look for button highli
 - Set runner to DWProton
 - Ready to Play 😀
 
-## Optional
-- For FPS overlay and linux customization
-- Requires install of mangohud and gamemode
-```
-mangohud gamemoderun %command%
-```
 
 ## Arknights:Endfield
 - Download launcher at:
@@ -93,3 +87,11 @@ https://endfield.gryphline.com/en-us#home
 SteamOS=1 %command%
 ```
 - Ready to Play 😀
+
+## Optional
+- For FPS overlay and linux customization
+   - Requires install of mangohud and gamemode
+- Add in launch option:
+```
+mangohud gamemoderun %command%
+```
