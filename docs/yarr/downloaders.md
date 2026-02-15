@@ -3,14 +3,14 @@ sidebar_position: 7
 title: "Downloaders"
 ---
 # Downloaders
-Download tools from various websites
+Download tools for various websites
 
-:::note
+:::note CLI
 
 CLI means "command line interface", requires the use of a terminal (think of minecraft commands but for computer)
 
 :::
-:::note
+:::note Docker
 
 If you don't know what docker is then don't use the entry
 
@@ -27,7 +27,7 @@ If you don't know what docker is then don't use the entry
 
 :::tip
 
-Good CLI template:
+Good CLI template for music:
 ```bash
 yt-dlp -f "bestaudio/best" --extract-audio --audio-format opus --audio-quality 0 --add-metadata --embed-thumbnail --parse-metadata "playlist_index:%(track_number)s" -o "%(album_artist,uploader).50s/%(album).50s/%(playlist_index)02d - %(title).100s.%(ext)s" URLHERE
 ```
@@ -36,6 +36,27 @@ Replace `URLHERE` with the URL of a playlist, album, or a song from YouTube Musi
 :::
 
 ## Music Specific
+- [Lidarr](https://github.com/Lidarr/Lidarr) with [Tubifarry](https://github.com/TypNull/Tubifarry)
+    - Requires docker knowledge
+    - Focuses in mass album of artist downloads
+- [Spotify | OnTheSpot](https://github.com/justin025/onthespot)
+    - Has M3U (playlist) export support
+    - Currently requires a premium account iirc (ensure use of alt account)
+        - For ease of alt account use a email alias service like [addy.io](https://www.addy.io)
+- [Spotify | Spotizerr](https://lavaforge.org/spotizerrphoenix/spotizerr-phoenix/)
+    - Has M3U (playlist) export support
+    - Requires docker knowledge
+### [Squid Network](https://linktr.ee/squid_network)
+- ["Spotify" | SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+    - Gets audio from Tidal, Qobuz, and Amazon Music
+    - Only FLAC files
+    - In Development version: [SpotiFLAC Next](https://github.com/spotiverse/SpotiFLAC-Next)
+- [Squid.wtf](https://squid.wtf/)
+- [Sitting on Clouds](https://www.sittingonclouds.net/)
+- [Navidrome Server | Squidify](https://www.squidify.org/)
+    - Music Streaming
+    - Need subsonic/navidrome [compatible client](https://www.navidrome.org/apps/) to download music files
+### Soulseek
 - [Soulseek | Nicotine+](https://github.com/nicotine-plus/nicotine-plus)
 - [Soulseek | slskd](https://github.com/slskd/slskd)
     - Requires docker knowledge
@@ -59,20 +80,6 @@ Account will expire if not used, and any other person can take it. (just make an
 Soulseek community hates leachers, upload stuff if you can. Most files is just publicly available tho so you can leach if you want.
 
 :::
-- [Lidarr](https://github.com/Lidarr/Lidarr) with [Tubifarry](https://github.com/TypNull/Tubifarry)
-    - Requires docker knowledge
-    - Focuses in mass album of artist downloads
-- [Spotify | OnTheSpot](https://github.com/justin025/onthespot)
-    - Has M3U (playlist) export support
-    - Currently requires a premium account iirc (ensure use of alt account)
-        - For ease of alt account use a email alias service like [addy.io](https://www.addy.io)
-- [Spotify | Spotizerr](https://lavaforge.org/spotizerrphoenix/spotizerr-phoenix/)
-    - Has M3U (playlist) export support
-    - Requires docker knowledge
-- ["Spotify" | Spotiflac](https://github.com/spotiverse/SpotiFLAC-Next)
-    - Gets audio from Tidal, Qobuz, and Amazon Music
-    - Only FLAC files
-- [Squid.wtf](https://squid.wtf/)
 ### Music tagger
 - [Musicbrainz Picard](https://picard.musicbrainz.org/) ⭐
 - [beets (CLI)](https://github.com/beetbox/beets)
