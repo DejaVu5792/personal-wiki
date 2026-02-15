@@ -12,11 +12,14 @@ Documentation on how I play gacha slop anime games.
 ## General Steam Instructions
 ### Adding non-steam game
 1. Open Steam
-2. Navigate to adding non-steam game
 
 Picture for reference:
 ![](../../static/img/steam-nonsteam/nonsteamgame.png)
-3. Then navigate to exe of game (not the launcher)
+
+2. In bottom left click "Add a Game", then click adding non-steam game
+3. In bottom left of the pop-up click browse
+4. Then navigate to exe of game (not the launcher)
+5. You can now see the game entry using the file name of the exe you selected
 
 ### Setting Runner
 1. Open Steam
