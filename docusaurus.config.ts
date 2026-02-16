@@ -79,6 +79,19 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  plugins: [
+    [
+      "@orama/plugin-docusaurus-v3",
+      {
+        searchbox: {
+          placeholder: "Search...",
+        },
+        searchButton: {
+          text: "Click here to search..."
+        }
+      },
+    ],
+  ],
 };
 
 export default config;
