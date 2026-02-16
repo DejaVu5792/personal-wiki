@@ -1,6 +1,6 @@
 {
-  "name": "yarr",
-  "version": "0.0.0",
+  "name": "personal-wiki",
+  "version": "1.67.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
