@@ -10,6 +10,10 @@ Useful gaming related resources.
 ## DLC Unlocker
 - [CreamInstaller download : r/Creaminstaller](https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/) (i have yet to test this specific links personally)
 - [Creamlinux](https://github.com/Novattz/creamlinux-installer) (🐧 Linux)
+
+## WeMod
+- [Wand](https://github.com/k1tbyte/Wemod-Patcher)
+
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
 - [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed) ⭐
