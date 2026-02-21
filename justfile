@@ -13,7 +13,7 @@ test:
 
 # Deploy to GH-Pages
 deploy:
-    bun run deploy
+    USE_SSH=true bun run deploy
 
 # Create new branch
 branch name="":
