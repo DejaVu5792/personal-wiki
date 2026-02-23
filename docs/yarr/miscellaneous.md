@@ -11,8 +11,12 @@ Links that I do not want to group together lol.
 
 ## Adobe and Autodesk
 - [m0nkrus](https://w16.monkrus.ws/) ⭐
+  - [Mirrors](https://pastebin.com/h8C1VWHB)
 :::tip
-Use PB.WTF links for a better experience.
+
+Use these links for a better experience:
+- uztracker
+- PB.WTF
 :::
 ## Microsoft Office and Windows Activation
 - [massgravel's MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐
