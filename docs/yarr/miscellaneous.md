@@ -22,13 +22,14 @@ Use these links for a better experience:
 - [massgravel's MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐
 ## Spotify
 - [Spotify Desktop | Spicetify](https://spicetify.app/docs/advanced-usage/installation/) (install with marketplace, install plugin called "adblocktify")
+  - in powershell:
 ```pw
 iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 ```
 - [Spotify Mobile | ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
   - idk but manually patched spotify in revanced works?
-- [Spotify Downloader | OnTheSpot](https://github.com/justin025/onthespot) (currently borked)
-  - TEMP: [Fork that works with PREMIUM accounts](https://github.com/DebuggerSRT/onthespot-librespotpatch ) (would not risk) (mentioned in issue [#236](https://github.com/justin025/onthespot/issues/236))
+
+[Downloaders Section Here](../yarr/downloaders.md#music-specific)
 ## Minecraft
 (I own minecraft so haven't tested these)
 - [PrismLauncher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked)
@@ -39,4 +40,5 @@ iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
 ### Android Apps
 - [Mobilism](http://mobilism.org/)
 ### EBooks
-- [annas-archive](https://annas-archive.org/) ⭐
+- [annas-archive](https://annas-archive.li/) ⭐
+  - see URL section in [wikipedia](https://en.wikipedia.org/wiki/Anna's_Archive) for upto date mirrors
