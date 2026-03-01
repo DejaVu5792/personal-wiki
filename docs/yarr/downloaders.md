@@ -86,3 +86,12 @@ Soulseek community hates leachers, upload stuff if you can. Most files is just p
 ### Playlist export to other services
 - [TuneSyncTool (CLI)](https://github.com/WilliamNT/tunesynctool)
     - CLI argument generator by dev: https://tunesynctool-builder.skiby.net/
+
+## Misc
+### Scribd
+- [scirbd-dl (CLI)](https://github.com/rkwyu/scribd-dl)
+### Kemono
+- [Kemono Downloader](https://github.com/Yuvi9587/Kemono-Downloader)
+### Image Hosting sites
+- [gallery-dl](https://github.com/mikf/gallery-dl)
+    - [See supported sites](https://github.com/mikf/gallery-dl/blob/master/docs/supportedsites.md)
