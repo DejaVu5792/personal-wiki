@@ -131,10 +131,39 @@ https://endfield.gryphline.com/en-us#home
 SteamOS=1 %command%
 ```
 
-## Optional
+## Optional launch options
 - For FPS overlay and linux customization
    - Requires install of mangohud and gamemode
-- Add in launch option:
+- Add in [launch option](https://wiki.archlinux.org/title/Steam#Launch_options):
 ```
 mangohud gamemoderun %command%
+```
+
+## [DWProton Launch args](https://dawn.wine/dawn-winery/dwproton#new-environment-variables)
+- Add to launch options
+    - `%command%` should be at the end, as these are environment variables
+    - See [Steam launch options](https://wiki.archlinux.org/title/Steam#Launch_options) entry in arch wiki for more info
+### Enable Async
+```
+PROTON_DXVK_GPLASYNC=1
+```
+### Fix audio crackling
+```
+PROTON_USE_WINEALSA=1
+```
+### Disable NTsync, fallsback to fsync
+```
+PROTON_NO_NTSYNC=1
+```
+### Fix for games dropping inputs after alt-tab
+```
+WINE_USE_TAKE_FOCUS=1
+```
+### Disable the disconnecting trick enabled by default for certain games
+```
+WINE_DISABLE_DISCONNECT=1
+```
+### Enable the disconnecting trick for any game
+```
+WINE_ENABLE_DISCONNECT=1
 ```
