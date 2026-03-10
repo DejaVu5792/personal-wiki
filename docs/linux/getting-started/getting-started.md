@@ -125,7 +125,11 @@ Most distros offer GUI to do most things you will do, like installing applicatio
 - UEFI only
     - Basically modern computers have this, if your motherboard has a fany GUI as a configurator then its UEFI
 
+:::note
+
 Use GRUB if you want more resources to fix things as it's been here since the era of dinosaurs. Limine is just a faster modern alternative that has a better snapshots/atomic integrations
+
+:::
 
 ### Filesystem
 - The thing that is used to store your files

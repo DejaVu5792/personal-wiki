@@ -31,7 +31,7 @@ For installation instructions [click here](./installing-linux.md)
     - Ease of use Rating: Technical
     - Terminal based
     - Atomic
-    - Basically Arch Linux, but with a installer
+    - Basically Arch Linux, but with an installer
 ## [EndeavorOS](https://endeavouros.com/)
     - Release Cycle: Rolling
     - Ease of use Rating: Technical
