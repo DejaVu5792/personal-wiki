@@ -136,11 +136,11 @@ Use GRUB if you want more resources to fix things as it's been here since the er
 #### EXT4
 - It just works
 - Old, stable
-- Need windows compat to work: https://github.com/bobranten/Ext4Fsd
+- For windows compat: https://github.com/bobranten/Ext4Fsd
 #### BTRFS ⭐
 - Modern and stable
 - Snapshots
-- Need windows compat to work: https://github.com/maharmstone/btrfs
+- For windows compat: https://github.com/maharmstone/btrfs
 #### NTFS
 - Windows thing
 - Will probably break under linux, requiring a Windows install to fix
