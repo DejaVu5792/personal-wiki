@@ -6,24 +6,24 @@ title: Common Linux Commands
 Stuff that's related to the linux terminal
 ## Shells
 ### `bash`
-- default in 90% of linux distribution
-- old
-- reliable
+- Default in 90% of linux distribution
+- Old
+- Reliable
 - POSIX compliant
 ### [`fish`](https://github.com/fish-shell/fish-shell)
-- more user friendly
-- new
-- rust
+- More user friendly
+- New
+- Written in Rust
 - non-POSIX compliant
-- fancy autocomplete
-- more built-in functions such as keybinds for prev and next dir
+- Fancy autocomplete
+- More built-in functions such as keybinds for prev and next dir
 ### `zsh`
-- glorified `bash`
+- Glorified `bash`
 - Not really POSIX compliant
 - Default in MacOS
 ### [`nu`](https://github.com/nushell/nushell)
-- good data structuring
-- makes output more human readable by formatting them as tables
+- Good data structuring
+- Makes output more human readable by formatting them as tables
 - non-POSIX compliant
 ### Ricing/Themeing
 #### [Starship](https://github.com/starship/starship), applicable to all shells
@@ -39,7 +39,7 @@ Stuff that's related to the linux terminal
 - SIGKILL current process
 ### Ctrl+R
 - `bash` exclusive
-- search for previously entered command
+- Search for previously entered command
 ### Up/Down Arrow Key
 - Previous/Next command
 ### Alt+S
@@ -66,18 +66,18 @@ The thing used to interact with the terminal
 - provides `tldr` command that gives a more readable `man` page
 ### `man`
 - Default in linux distros
-- provides complete documentation on a command
+- Provides complete documentation on a command
 ## Multiplexers
 Make session detached from terminal instance, makes your terminal session persistent so even if your terminal session crashes or closes commands being run would still run in the background
 ### GNU Screen
-- basic multiplexer
-- runs a single command detached from terminal
+- Basic multiplexer
+- Runs a single command detached from terminal
 ### tmux
-- steep learning curve
+- Steep learning curve
 - Default in most linux distros 
 ### ZelliJ ⭐
-- more user friendly tmux
-- like `fish` with `bash`, focuses on more beginner friendly experience
+- More user friendly tmux
+- :ike `fish` with `bash`, focuses on more beginner friendly experience
 ## CLIs and TUIs
 ### CLI
 - Command Line Interface
@@ -126,7 +126,7 @@ cd
 ### [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐
 - Not default, requires manual install
 - `cd` but better
-- fuzzy directory search
+- Fuzzy directory search
 - Recommended for easier terminal directory navigation
 ## Extra Resources
 ### [Chris Titus Tech's Linux Book](https://thelinuxbook.com/)
