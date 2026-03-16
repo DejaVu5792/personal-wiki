@@ -189,11 +189,19 @@ https://github.com/maharmstone/ntfs2btrfs
 - No dependency hell
 - Restrictive permission wise
     - This will be very annoting fast, as linux does not have the same popups in phones where you can just give access to application permssions
+    - Use [Flatseal](https://flathub.org/en/apps/com.github.tchx84.Flatseal) or KDE's settings (requires `flatpak-kcm`) to configure permissions
 #### AppImage
 - Works in any distro
 - Usually distributed by the devs themselves
 - Sometimes dependency hell
 - Does not have any stores
+- Does not integrate well with the system
+    - Can be solved with [Gear Lever](https://github.com/mijorus/gearlever)
+#### snaps
+- Flatpak but worse
+- Proprietary store front only controllable by Canonical (Ubuntu maintainers)
+- Requires AppArmor for sandboxing, inherently incompatible with SELinux
+- More focused for Ubuntu
 #### Tar Balls
 - Usually distributed by the devs themselves
 - Basically like portable applications in Windows
