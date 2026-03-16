@@ -190,6 +190,7 @@ https://github.com/maharmstone/ntfs2btrfs
 - Restrictive permission wise
     - This will be very annoting fast, as linux does not have the same popups in phones where you can just give access to application permssions
     - Use [Flatseal](https://flathub.org/en/apps/com.github.tchx84.Flatseal) or KDE's settings (requires `flatpak-kcm`) to configure permissions
+- Has [bazaar](https://flathub.org/en/apps/io.github.kolunmi.Bazaar) which is a very good store front
 #### AppImage
 - Works in any distro
 - Usually distributed by the devs themselves
