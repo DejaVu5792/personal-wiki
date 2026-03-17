@@ -73,13 +73,16 @@ Some apps are more complex than just adding their links, some of these apps can 
 - [Gale](https://github.com/Kesomannen/gale) ⭐
 - [r2modman](https://github.com/ebkr/r2modmanPlus/)
 ### PC Emulation in Android (with Steam Support)
-- [Gamehub Lite](https://github.com/Producdevity/gamehub-lite) ⭐
+- [GameNative](https://github.com/utkarshdalal/GameNative/) ⭐
+- [Gamehub Lite](https://github.com/Producdevity/gamehub-lite)
     - [OG link](https://github.com/gamehublite/gamehub-oss/releases) (unmaintained)
 - [Gamehub](https://gamehub.xiaoji.com/)
 :::note
 
 Gamehub Lite is just Gamehub with no spyware and login.
 
+:::
+:::tip See [EmuReady](https://www.emuready.com/) for compatibility docs
 :::
 ### Minecraft Java in Android
 - [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher)
