@@ -47,16 +47,16 @@ Replace `URLHERE` with the URL of a playlist, album, or a song from YouTube Musi
     - Has M3U (playlist) export support
     - Requires docker knowledge
 ### [Squid Network](https://linktr.ee/squid_network)
-- ["Spotify" | SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC)
+- ["Spotify" | SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) ⭐
     - Gets audio from Tidal, Qobuz, and Amazon Music
     - Only FLAC files
     - In Development version: [SpotiFLAC Next](https://github.com/spotiverse/SpotiFLAC-Next)
-- [Squid.wtf](https://squid.wtf/)
+- [Squid.wtf](https://squid.wtf/) ⭐
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
 - [Navidrome Server | Squidify](https://www.squidify.org/)
     - Music Streaming
     - Need subsonic/navidrome [compatible client](https://www.navidrome.org/apps/) to download music files
-### Soulseek
+### Soulseek ⭐
 - [Soulseek | Nicotine+](https://github.com/nicotine-plus/nicotine-plus)
 - [Soulseek | slskd](https://github.com/slskd/slskd)
     - Requires docker knowledge
@@ -86,6 +86,7 @@ Soulseek community hates leachers, upload stuff if you can. Most files is just p
 ### Playlist export to other services
 - [TuneSyncTool (CLI)](https://github.com/WilliamNT/tunesynctool)
     - CLI argument generator by dev: https://tunesynctool-builder.skiby.net/
+    - Spotify now requires premium account
 
 ## Misc
 ### Scribd
