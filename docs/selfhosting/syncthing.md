@@ -1,6 +1,8 @@
 ---
 title: Syncthing
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Syncthing
 Syncthing is a continuous file sync program
@@ -12,34 +14,41 @@ Syncthing is a continuous file sync program
 - Follow Setup Wizard
 
 ## Adding a Device
-### On "Host" Device
-1. Get the device's ID, see below for visual aid
+<Tabs defaultValue="host">
+  <TabItem value="host" label='On "Host" Device'>
 
-On top right of the WebGUI
+    1. Get the device's ID (see below for visual aid).
+    
+    On the top right of the WebGUI:
 
-![](../../static/img/syncthing/show-id.png)
-![](../../static/img/syncthing/show-id-panel.png)
+    ![Show ID](@site/static/img/syncthing/show-id.png)
+    ![Show ID Panel](@site/static/img/syncthing/show-id-panel.png)
 
-The ID in this case is "XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX"
+    > The ID in this case is `XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX-XXXXXXX`
 
-2. Click the "Copy" button to copy the ID, this will be used later
+    2. Click the **Copy** button to copy the ID; this will be used later.
 
-### On "Client" Device
-1. Same with adding a folder, click add to user
+  </TabItem>
+  <TabItem value="client" label='On "Client" Device'>
 
-![](../../static/img/syncthing/adding-folder-1.png)
-Click "Add", (image is reused from adding a folder)
+    1. Similar to adding a folder, click **Add Device**.
 
-#### Device Options
-![](../../static/img/syncthing/device-options.png)
+    ![Adding Device](@site/static/img/syncthing/adding-folder-1.png)
+    *Click "Add" (image is reused from adding a folder)*
 
-- **Introducer**
-    - Recommended for a "hub" usually a server/computer that is always on
-    - This is useful for when there is a lot of devices to be shared with, if *all* devices has introducer set on the hub device then syncthing will automatically share the folder with everyone
-        - This is similar to how torrents work
-- **Auto Accept**
-    - Recommended for headless devices
-    - Will add the folder to default path, usually to "Syncthing" folder
+    #### Device Options
+    ![Device Options](@site/static/img/syncthing/device-options.png)
+
+    * **Introducer**
+        * Recommended for a "hub" (usually a server/computer that is always on).
+        * Useful when there are many devices; if *all* devices have the hub set as an introducer, Syncthing automatically shares the folder with everyone.
+        * This is similar to how torrents work.
+    * **Auto Accept**
+        * Recommended for headless devices.
+        * Automatically adds folders to the default path (usually the "Syncthing" folder).
+
+  </TabItem>
+</Tabs>
 
 
 ## Adding a Folder Shared to You
