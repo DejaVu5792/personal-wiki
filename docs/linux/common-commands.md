@@ -129,6 +129,6 @@ cd
 - Fuzzy directory search
 - Recommended for easier terminal directory navigation
 ## Extra Resources
-### [Chris Titus Tech's Linux Book](https://thelinuxbook.com/)
+### [Chris Titus Tech's Linux Book | CLI section](https://thelinuxbook.com/chapter4-servercli)
 ### [Bazzite-CLI](https://docs.bazzite.gg/Advanced/bazzite-cli/)
     - Lists modern alternative to GNU utils and useful terminal related applications
