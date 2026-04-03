@@ -12,7 +12,8 @@ Here I will yap about how to use linux from 0 background knowledge as best as I 
 - Usually contains the Linux kernel, GNU Utils, systemd, and other "bloat"
 - To see my recommendations [click here](./linux-distros.md)
 
-## Things to Search for in a Distro:
+## Things to Search for in a Distro
+- Ordered from most important to least
 ### Desktop Environment
 - This will be your main user interface, the main look of your computer.
 - Choose any DE that you want the look of
@@ -63,6 +64,22 @@ Don't really recommend using these if you just want to use a computer.
         - Scrolling tiling WM
         - Good for ultrawides
 
+### GUI vs Terminal
+#### GUI
+- You're probably using one right now to see this
+- Visual, you can see what you can interact with
+- Example distros would be [Mint](https://linuxmint.com/) and [Bazzite](https://bazzite.gg/)
+#### Terminal
+- Text based
+- Easily scriptable
+- Example distros would be [EndeavorOS](https://endeavouros.com/) and [CachyOS](https://cachyos.org/)
+
+:::note
+
+Most distros offer GUI to do most things you will do, like installing applications.
+
+:::
+
 ### Atomic vs Immutable
 #### Atomic ⭐
 - Updates are "version controlled", if any issues occurs you can rollback to a usable system
@@ -94,20 +111,6 @@ Don't really recommend using these if you just want to use a computer.
 - If you want to suffer and fix stuff as you go rolling release is good
     - Your system would also be always at bleeding edge, having latest updates as soon as it releases
 
-### GUI vs Terminal
-#### GUI
-- You're probably using one right now to see this
-- Visual, you can see what you can interact with
-#### Terminal
-- Text based
-- Easily scriptable
-
-:::note
-
-Most distros offer GUI to do most things you will do, like installing applications.
-
-:::
-
 ### Bootloaders
 - The thing used to boot your system
 #### GRUB 
@@ -130,6 +133,19 @@ Most distros offer GUI to do most things you will do, like installing applicatio
 Use GRUB if you want more resources to fix things as it's been here since the era of dinosaurs. Limine is just a faster modern alternative that has a better snapshots/atomic integrations
 
 :::
+
+---
+
+## Extra Information
+- These information are not really tied to distributions
+
+### Dual Booting
+- When installing a Linux Distro, the installer usually detects if a windows is present
+    - You can choose to nuke it and only have linux
+    - or, have them both
+- Don't really recommend this as a Windows update could nuke your Linux bootloader
+- Window's EFI partition (technical thing), by default is small and would probably not fit
+    - Very edge case
 
 ### Filesystem
 - The thing that is used to store your files
@@ -164,14 +180,6 @@ https://github.com/maharmstone/ntfs2btrfs
 - Documentation from Valve: https://github.com/ValveSoftware/Proton/wiki/Using-a-NTFS-disk-with-Linux-and-Windows
 
 :::
-
-### Dual Booting
-- When installing a Linux Distro, the installer usually detects if a windows is present
-    - You can choose to nuke it and only have linux
-    - or, have them both
-- Don't really recommend this as a Windows update could nuke your Linux bootloader
-- Window's EFI partition (technical thing), by default is small and would probably not fit
-    - Very edge case
 
 ### Packaging
 #### Native
