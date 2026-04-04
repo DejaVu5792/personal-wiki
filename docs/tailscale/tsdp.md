@@ -28,7 +28,7 @@ services:
       - TSDPROXY_LOG_LEVEL=info
 ```
 2. Get AuthKey [here](https://login.tailscale.com/admin/settings/keys), and add it to your compose
-  - Ensure that "Reusable" is enabled
+- Ensure that "Reusable" is enabled
 :::danger[WARNING]
 
 Do NOT share your AuthKey with anyone, even with LLMs, as it acts as a password to your tailscale.
@@ -48,15 +48,15 @@ labels:
 ```
 - Details:
     - `tsdproxy.enable`, to enable TSDP
-      - Boolean, true/false
+        - Boolean, true/false
     - `tsdproxy.name`, name of the service
-      - This will be the name of the link so setting it as "Jellyfin" the link would be "https://jellyfin.tail-net.ts.net"
-      - This is the name it appears in your [tailscale dashboard](https://login.tailscale.com/admin/machines)
+        - This will be the name of the link so setting it as "Jellyfin" the link would be "https://jellyfin.tail-net.ts.net"
+        - This is the name it appears in your [tailscale dashboard](https://login.tailscale.com/admin/machines)
     - `tsdproxy.container_port`, port that TSDP will forward to tailscale set this as the services port
     - `tsdproxy.funnel`, makes the service publicly available
-      - Boolean, true/false
-      - This is optional
-      - Makes it so it's available to anyone even outside of your tailnet 
+        - Boolean, true/false
+        - This is optional
+        - Makes it so it's available to anyone even outside of your tailnet 
 
 ## Disabling Key Expiry
 - By default tailscale will have machines expire every few months

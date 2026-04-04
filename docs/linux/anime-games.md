@@ -133,7 +133,7 @@ SteamOS=1 %command%
 
 ## Optional launch options
 - For FPS overlay and linux customization
-   - Requires install of mangohud and gamemode
+    - Requires install of mangohud and gamemode
 - Add in [launch option](https://wiki.archlinux.org/title/Steam#Launch_options):
 ```
 mangohud gamemoderun %command%

@@ -9,7 +9,7 @@ Useful gaming related resources.
 
 ## DLC Unlocker
 - [Creaminstaller Revived](https://github.com/FroggMaster/CreamInstaller)
-  - [CreamInstaller download : r/Creaminstaller](https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/)
+    - [CreamInstaller download : r/Creaminstaller](https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/)
 - [Creamlinux](https://github.com/Novattz/creamlinux-installer) (🐧 Linux)
 
 ## WeMod
@@ -18,7 +18,7 @@ Useful gaming related resources.
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
 - [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed) ⭐
-  - [Launcher for autodownload (experimental support)](https://ascendara.app/)
+    - [Launcher for autodownload (experimental support)](https://ascendara.app/)
 :::tip
 
 Use [qBittorent](https://www.qbittorrent.org/download).
@@ -27,7 +27,7 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 ## Direct Download
 - [OvaGames](https://www.ovagames.com/)
 - [SteamRip](https://steamrip.com/)
-  - [Launcher for autodownload](https://ascendara.app/)
+    - [Launcher for autodownload](https://ascendara.app/)
 - [GOG](https://gog-games.to/)
 - [RexaGames](https://rexagames.com/)
 - [IGG-Games](https://igg-games.com/) (LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol))

@@ -13,18 +13,18 @@ List of apps that are useful for getting things.
 
 ## Modded APKs
 - [Mobilism](http://mobilism.org/)
-  - [Mirror link](https://mobilism.me/)
+    - [Mirror link](https://mobilism.me/)
 
 ## Manga
 (ranked from preferred to good, top to bottom)
 - [Mihon](https://github.com/mihonapp/mihon)
-  - [Komikku](https://komikku-app.github.io/) ⭐, basically glorified Mihon it has Anime support and cross-device sync.
-  - [Animetail](https://github.com/Animetailapp/Animetail), also a glorified Mihon it has Anime support and cross-device sync.
-    - Anime extensions can be found [here](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo). (copy URL address, Auto install button will NOT work)
-  - If need help in installing extensions there are video guides in [Wotaku](https://wotaku.wiki/guides/ext/mihon#video-guides)
+    - [Komikku](https://komikku-app.github.io/) ⭐, basically glorified Mihon it has Anime support and cross-device sync.
+    - [Animetail](https://github.com/Animetailapp/Animetail), also a glorified Mihon it has Anime support and cross-device sync.
+        - Anime extensions can be found [here](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo). (copy URL address, Auto install button will NOT work)
+    - If need help in installing extensions there are video guides in [Wotaku](https://wotaku.wiki/guides/ext/mihon#video-guides)
 - [Doki](https://github.com/DokiTeam/Doki) (Successor to [Kotatsu](https://kotatsu.app/))
-  - Can import backups from kotatsu
-  - Might rename to [Yaka](https://github.com/YAKATeam), only go to this link if Doki is gone.
+    - Can import backups from kotatsu
+    - Might rename to [Yaka](https://github.com/YAKATeam), only go to this link if Doki is gone.
 - [Dontatsu](https://discord.gg/dantotsu)
 :::tip
 
@@ -49,7 +49,7 @@ Extensions list: https://wotaku.wiki/guides/ext/mihon
 - Download "Mega"
 - Go back to list to see every extension available
 - Recommended Extensions: CineStream (in Megix repo), Ultima (in Phisher repo)
-  - idk if these repos still exist (been too long since i setuped cloudstream lol), look in [wiki page](https://cloudstream.miraheze.org/wiki/List_of_extensions) for up to date info
+    - idk if these repos still exist (been too long since i setuped cloudstream lol), look in [wiki page](https://cloudstream.miraheze.org/wiki/List_of_extensions) for up to date info
 
 :::
 :::info Wiki Pages
@@ -150,5 +150,5 @@ For Login support install [MicroG](https://github.com/MorpheApp/MicroG-RE)
 
 ### YouTube Music
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist) ⭐
-  - Custom client for YouTube Music
-  - Goated
+    - Custom client for YouTube Music
+    - Goated

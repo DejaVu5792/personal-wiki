@@ -11,9 +11,8 @@ start:
 test:
     bun run serve -- --build
 
-# Deploy to GH-Pages
-deploy:
-    USE_SSH=true bun run deploy
+# Format Markdown files
+    markdownlint --fix "**/*.md"
 
 # Create new branch
 branch name="":
