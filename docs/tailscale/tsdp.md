@@ -43,6 +43,7 @@ labels:
   - "tsdproxy.enable=true"
   - "tsdproxy.name=service-name"
   - "tsdproxy.container_port=8000"
+  - "tsdproxy.ephemeral=false"
   # OPTIONAL
   - "tsdproxy.funnel=true"
 ```
@@ -53,6 +54,8 @@ labels:
         - This will be the name of the link so setting it as "Jellyfin" the link would be "https://jellyfin.tail-net.ts.net"
         - This is the name it appears in your [tailscale dashboard](https://login.tailscale.com/admin/machines)
     - `tsdproxy.container_port`, port that TSDP will forward to tailscale set this as the services port
+    - `tsdproxy.ephemeral`, make tailscale machine persistent
+        - Boolean, true/false
     - `tsdproxy.funnel`, makes the service publicly available
         - Boolean, true/false
         - This is optional
