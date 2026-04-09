@@ -12,6 +12,7 @@ test:
     bun run serve -- --build
 
 # Format Markdown files
+markdown-lint:
     markdownlint --fix "**/*.md"
 
 # Create new branch
