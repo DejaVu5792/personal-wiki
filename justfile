@@ -17,6 +17,7 @@ markdown-lint:
 
 update-browserslist:
     bunx update-browserslist-db@latest
+    bun i baseline-browser-mapping@latest -D
 
 update-docusaurus:
     bun i @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest @docusaurus/tsconfig@latest @docusaurus/types@latest
