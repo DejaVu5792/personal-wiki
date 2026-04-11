@@ -42,6 +42,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -53,6 +55,9 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
+    },
+    tableOfContents: {
+      maxHeadingLevel: 4,
     },
     navbar: {
       title: 'DegaSite',

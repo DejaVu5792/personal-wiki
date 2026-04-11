@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 title: Getting Started in Linux
-toc_max_heading_level: 4
 ---
 
 # Getting Started

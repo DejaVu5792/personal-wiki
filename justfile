@@ -15,6 +15,12 @@ test:
 markdown-lint:
     markdownlint --fix "**/*.md"
 
+update-browserslist:
+    bunx update-browserslist-db@latest
+
+update-docusaurus:
+    bun i @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest @docusaurus/tsconfig@latest @docusaurus/types@latest
+
 # Create new branch
 branch name="":
     #!/usr/bin/env bash
