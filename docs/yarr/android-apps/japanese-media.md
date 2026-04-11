@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 # Manga, Anime, and Light Novels
-This section rapidly changes see [Wotaku](https://wotaku.wiki/) and [EverythingMoe](https://everythingmoe.com/) for latest information.
+Information here rapidly changes, see [Wotaku](https://wotaku.wiki/) and [EverythingMoe](https://everythingmoe.com/) for latest information.
 
 ## Manga
 (ranked from preferred to good, top to bottom)
@@ -26,7 +26,7 @@ If you have a server: [Sync server for Komikku or Animetail](https://github.com/
 See [EverythingMoe](https://everythingmoe.com) for source rankings
 
 :::
-:::info Extension Repos for everything on Mihon bullet point
+:::info[Extension Repos for everything on Mihon bullet point]
 
 Extensions list: https://wotaku.wiki/guides/ext/mihon
 

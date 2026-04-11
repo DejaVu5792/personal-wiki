@@ -26,14 +26,14 @@ List of apps that are useful for getting things.
     - idk if these repos still exist (been too long since i setuped cloudstream lol), look in [wiki page](https://cloudstream.miraheze.org/wiki/List_of_extensions) for up to date info
 
 :::
-:::info Wiki Pages
+:::info[Wiki Pages]
 
 [Official Wiki Page](https://recloudstream.github.io/csdocs/)
 
 [Unofficial Wiki Page (Contains Extensions and Repos instructions)](https://cloudstream.miraheze.org/wiki/Main_Page)
 
 :::
-:::tip Installing in Android TV
+:::tip[Installing in Android TV]
 
 If unable to download using browser you can make use of local send to share the APK file
 

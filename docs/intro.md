@@ -82,7 +82,7 @@ Some apps are more complex than just adding their links, some of these apps can 
 Gamehub Lite is just Gamehub with no spyware and login.
 
 :::
-:::tip See [EmuReady](https://www.emuready.com/) for compatibility docs
+:::tip[See [EmuReady](https://www.emuready.com/) for compatibility docs]
 :::
 ### Minecraft Java in Android
 - [ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher)

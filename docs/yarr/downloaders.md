@@ -5,12 +5,12 @@ title: "Downloaders"
 # Downloaders
 Download tools for various websites
 
-:::note CLI
+:::note[CLI]
 
 CLI means "command line interface", requires the use of a terminal (think of minecraft commands but for computer)
 
 :::
-:::note Docker
+:::note[Docker]
 
 If you don't know what docker is then don't use the entry
 

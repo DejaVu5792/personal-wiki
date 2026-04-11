@@ -161,7 +161,7 @@ Use GRUB if you want more resources to fix things as it's been here since the er
 - Will probably break under linux, requiring a Windows install to fix
 - Under Linux this runs under [FUSE](https://wiki.archlinux.org/title/FUSE)
     - Which can make your system very slow in a hybrid (SSD+HDD) setup
-::::::tip NTFS to BTRFS converter
+::::::tip[NTFS to BTRFS converter]
 
 https://github.com/maharmstone/ntfs2btrfs
 :::danger[Do **NOT** use for very important files]
