@@ -1,9 +1,7 @@
 ---
 title: Manga, Anime, and Light Novels
-sidebar_position: 2
+sidebar_position: 3
 ---
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
 
 # Manga, Anime, and Light Novels
 This section rapidly changes see [Wotaku](https://wotaku.wiki/) and [EverythingMoe](https://everythingmoe.com/) for latest information.
@@ -25,19 +23,18 @@ This section rapidly changes see [Wotaku](https://wotaku.wiki/) and [EverythingM
 
 If you have a server: [Sync server for Komikku or Animetail](https://github.com/SyncYomi/SyncYomi) or just use GDrive
 
+See [EverythingMoe](https://everythingmoe.com) for source rankings
+
 :::
 :::info Extension Repos for everything on Mihon bullet point
 
 Extensions list: https://wotaku.wiki/guides/ext/mihon
 
 :::
-:::tip
-See [EverythingMoe](https://everythingmoe.com) for source rankings
-:::
 
 ## Anime
-- [Cloudstream](/docs/yarr/android-apps/android-apps.md#general-media-anime-movies-tv-series-etc)
-    - See hyperlink for setup
+- [Cloudstream](https://github.com/recloudstream/cloudstream)
+    - [See here for setup instructions](/docs/yarr/android-apps/android-apps.md#general-media-anime-movies-tv-series-etc)
 - [Animetail](https://github.com/Animetailapp/Animetail)
 - [*arr Suite](/docs/selfhosting/arr.md)
     - Complex to setup
