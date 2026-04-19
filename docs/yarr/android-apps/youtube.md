@@ -6,16 +6,18 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 ## YouTube Android TV "Mod"
-- For Android TVs: [SmartTube](https://github.com/yuliskov/SmartTube)
+- [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt)
+    - Has similar UI to official YouTube ATV
+- [SmartTube](https://github.com/yuliskov/SmartTube)
 
-:::tip[Changing Accounts]
+:::tip[Changing Accounts in SmartTube]
 
 - Press profile picture seen in top left.
 - If many accounts, you can also long press the profile picture to display a list of accounts.
 
 :::
 
-- For Samsung Tizen TVs: [TizenTube](https://github.com/reisxd/TizenTubeCobalt)
+- For Samsung Tizen TVs: [TizenTube](https://github.com/reisxd/TizenTube)
 
 ## Modded YouTube
 :::info
