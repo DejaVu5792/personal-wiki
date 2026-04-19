@@ -6,9 +6,11 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 ## YouTube Android TV "Mod"
-- [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt)
+- [TizenTube Cobalt](https://github.com/reisxd/TizenTubeCobalt) 
+    - [AFTVnews Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader) code `6366500`
     - Has similar UI to official YouTube ATV
-- [SmartTube](https://github.com/yuliskov/SmartTube)
+- [SmartTube](https://github.com/yuliskov/SmartTube) 
+    - [AFTVnews Downloader](https://play.google.com/store/apps/details?id=com.esaba.downloader) code `28544`
 
 :::tip[Changing Accounts in SmartTube]
 
