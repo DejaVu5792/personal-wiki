@@ -1,6 +1,7 @@
 ---
 title: Manga, Anime, and Light Novels
 sidebar_position: 3
+description: Conveniently get Manga, Anime, and Light Novels
 ---
 
 # Manga, Anime, and Light Novels
