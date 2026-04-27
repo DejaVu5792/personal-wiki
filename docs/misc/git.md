@@ -17,6 +17,7 @@ description: "git is a decentralized version control program"
 
 ## Using `git` in IDE
 ### IntelliJ
+- Official Documentation: https://www.jetbrains.com/help/idea/using-git-integration.html
 #### From Cloning a Repository
 1. Press Clone Repository button
 
