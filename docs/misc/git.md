@@ -62,7 +62,7 @@ Press "Always Add" for new files to be tracked by default in git
 - The file that specifies which files to not add to git repo, usually used for (but not limited to):
     - Build cache
     - Environment file (.env)
-    - Files containing sensitive information (like credentials)
+    - Files containing sensitive information (e.g. credentials)
 ### Branches
 - TBW
 
