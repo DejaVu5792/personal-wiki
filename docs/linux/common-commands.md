@@ -5,6 +5,11 @@ title: Common Linux Commands
 # Common Linux Commands
 Stuff that's related to the linux terminal
 ## Shells
+:::note[POSIX]
+
+POSIX, or "Portable Operating System Interface", is a set of "universal rules" that ensures different operating systems (like Linux, macOS, and Unix) understand the same basic commands and scripts. Basically if it's POSIX compliant most commands from the internet would work.
+
+:::
 ### `bash`
 - Default in 90% of linux distribution
 - Old
