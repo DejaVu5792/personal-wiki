@@ -82,7 +82,8 @@ Make session detached from terminal instance, makes your terminal session persis
 - Default in most linux distros 
 ### ZelliJ ⭐
 - More user friendly tmux
-- :ike `fish` with `bash`, focuses on more beginner friendly experience
+- Uses TUI
+- Like `fish` with `bash`, ZelliJ focuses on being more of a beginner friendly experience
 ## CLIs and TUIs
 ### CLI
 - Command Line Interface
@@ -105,6 +106,17 @@ ENVVAR=value command --flag flagarg args
 - Creates new inode of a file to a location
 ### mv
 - Moves a file to a specified location
+- In linux this commands also acts as `rename`, since you're basically "renaming" a file's directory to another location
+- This retains the file's inode
+
+:::note[inode]
+
+"The inode is a data structure in a Unix-style file system that describes a file-system object such as a file or a directory. Each inode stores the attributes and disk block locations of the object's data. File-system object attributes may include metadata, as well as owner and permission data. Directories are lists of names assigned to inodes. A directory contains an entry for itself, its parent, and each of its children." [More at Wikipedia](https://en.wikipedia.org/wiki/Inode)
+
+Why this matters? Transfer speed, usually moving a file is instantaneous especially when the files are in the same drive/partition
+
+:::
+
 ### cat
 - See [bat](https://github.com/sharkdp/bat) for a modern alternative
 - Displays contents of a file
