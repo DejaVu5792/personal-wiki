@@ -57,6 +57,15 @@ Press "Always Add" for new files to be tracked by default in git
 
 ![](../../static/img/git/6-pushing.png)
 
+## Git stuff
+### .gitignore
+- The file that specifies which files to not add to git repo, usually used for (but not limited to):
+    - Build cache
+    - Environment file (.env)
+    - Files containing sensitive information (like credentials)
+### Branches
+- TBW
+
 ## TUI
 - [lazygit](https://github.com/jesseduffield/lazygit)
 
