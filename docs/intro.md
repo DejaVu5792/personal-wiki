@@ -22,6 +22,8 @@ Syncthing is peer-to-peer file synchronization utility, installing it standalone
 :::
 ## Phone Link ⭐
 - [KDE Connect](https://kdeconnect.kde.org/download.html)
+## QuickShare Client
+- [Packet](https://github.com/nozwock/packet) (🐧 linux)
 :::note
 
 Can also work with PC to PC, and Phone to Phone
