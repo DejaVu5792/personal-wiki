@@ -52,3 +52,10 @@ I no longer mod these games so information might be outdated
 - [XXMI](https://github.com/SpectrumQT/XXMI-Launcher#portable-for-windows-and-linux-via-wine-922)
 - [TwinTailLauncher](https://github.com/TwintailTeam/TwintailLauncher)
     - Have yet to use this
+
+### OnlineFix
+- If you know, you know
+- Add to launch options:
+```
+WINEDLLOVERRIDES="OnlineFix64=n;SteamOverlay64=n;winmm=n,b;dnet=n;steam_api64=n;winhttp=n,b" %command%
+```
