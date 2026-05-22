@@ -16,6 +16,10 @@ Syncthing is peer-to-peer file synchronization utility, installing it standalone
 - [Syncthing Tray](https://github.com/Martchus/syncthingtray)
 - [SyncTrayzor](https://github.com/canton7/SyncTrayzor)
 - [Syncthing-Fork](https://github.com/Catfriend1/syncthing-android) (Android)
+## Note Taking
+- [ObsidianMD](https://obsidian.md/)
+    - use [syncthing](#file-sync-) to sync files or use a syncing plugin
+    - [More Info](./misc/obsidian.md)
 ## VPN ⭐
 - [Tailscale](https://tailscale.com/)
 :::note[[More Detail Here](./tailscale/index.mdx)]
