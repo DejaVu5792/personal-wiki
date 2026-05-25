@@ -62,6 +62,8 @@ Can also work with PC to PC, and Phone to Phone
 - [topgrade](https://github.com/topgrade-rs/topgrade)
 ## Auto Update directly from source (GitHub, GitLab, FDroid, etc.) ⭐
 - [Obtanium](https://github.com/ImranR98/Obtainium)
+:::info[[More Info Here](./yarr/android-apps/obtainium.md)]
+:::
 ## Verify Storage Device Capacity
 - [Validrive](https://www.grc.com/validrive.htm)
 - [Valixdrive](https://github.com/cavedon/valixdrive) (have yet to test) (🐧 linux)
@@ -70,11 +72,6 @@ Can also work with PC to PC, and Phone to Phone
 - [FileLight](https://apps.kde.org/filelight/)
 ## Bootable USB Flasher
 - [Ventoy](https://github.com/ventoy/Ventoy)
-:::info
-
-Some apps are more complex than just adding their links, some of these apps can be found [here](https://apps.obtainium.imranr.dev/).
-
-:::
 ## Gaming
 ### Game Streaming (local)
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/) & [Moonlight](https://moonlight-stream.org/)
