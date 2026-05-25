@@ -47,3 +47,8 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 - https://github.com/Teyliu/PVZF-Translation
 ### Hytale
 - https://github.com/yyyumeniku/HyPrism
+### Minecraft
+(I own minecraft so haven't tested these, see [FMHY's section for latest info](https://fmhy.net/gaming-tools#launchers))
+- [PineconeMC](https://pineconemc.ru/)
+- [PrismLauncher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked)
+- [PollyMC](https://github.com/fn2006/PollyMC)

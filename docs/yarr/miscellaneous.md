@@ -30,10 +30,6 @@ iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
     - idk but manually patched spotify in revanced works?
 
 [Downloaders Section Here](../yarr/downloaders.md#music-specific)
-## Minecraft
-(I own minecraft so haven't tested these)
-- [PrismLauncher Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked)
-- [PollyMC](https://github.com/fn2006/PollyMC)
 ## General
 ### 1337x
 - [1337x](https://1337x.to/)
