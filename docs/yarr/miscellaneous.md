@@ -22,19 +22,29 @@ Use these links for a better experience:
 - [massgravel's MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐
 ## Spotify
 - [Spotify Desktop | Spicetify](https://spicetify.app/docs/advanced-usage/installation/) (install with marketplace, install plugin called "adblocktify")
-    - in powershell:
-```pw
-iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
-```
+    - To Install:
+    ```pw
+    iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+    ```
+    - To update (needed operation for every spotify client update):
+    ```pw
+    spicetify upgrade
+    ```
 - [Spotify Mobile | ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
-    - idk but manually patched spotify in revanced works?
+- [Spotify "Mobile" | SpotiCap](https://gitlab.com/spotihater/spoticap)
+    - Spotify mobile client-adless
+    - Basically a browser wrapper
+- [Melt](https://github.com/FrancescoGrazioso/Meld)
+    - Fork of Metrolist
+    - Capable of "importing" spotify library
+    - Cons: Plays from YouTube music, not direct from Spotify
 
-[Downloaders Section Here](../yarr/downloaders.md#music-specific)
+[For downloading, see this section here](../yarr/downloaders.md#music-specific)
 ## General
 ### 1337x
 - [1337x](https://1337x.to/)
 ### Android Apps
 - [Mobilism](http://mobilism.org/)
 ### EBooks
-- [annas-archive](https://annas-archive.li/) ⭐
+- [annas-archive](https://annas-archive.gl/) ⭐
     - see URL section in [wikipedia](https://en.wikipedia.org/wiki/Anna's_Archive) for upto date mirrors

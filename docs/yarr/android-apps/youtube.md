@@ -102,9 +102,14 @@ If you'd rather not have another app installed
 </Tabs>
 
 ## YouTube Music
+- [YouTube Morphe](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root/releases/download/all/youtube-music-arm64-v8a-morphe.apk)
+    - Pre-patched YouTube music using Morphe
 - [Metrolist](https://github.com/mostafaalagamy/Metrolist) ⭐
     - Custom client for YouTube Music
     - Goated
+- [Melt](https://github.com/FrancescoGrazioso/Meld)
+    - Fork of Metrolist
+    - Capable of "importing" spotify library
 
 ## Downloading off of YouTube
 - See [Downloaders](../downloaders.md#android-app)
