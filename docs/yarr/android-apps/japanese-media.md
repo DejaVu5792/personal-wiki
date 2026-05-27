@@ -10,7 +10,7 @@ Information here rapidly changes, see [Wotaku](https://wotaku.wiki/) and [Everyt
 ## Manga
 (ranked from preferred to good, top to bottom)
 - [Mihon](https://github.com/mihonapp/mihon)
-    - [Komikku](https://komikku-app.github.io/) ⭐, basically glorified Mihon it has Anime support and cross-device sync.
+    - [Komikku](https://komikku-app.github.io/) ⭐, basically glorified Mihon and has cross-device sync.
     - [Animetail](https://github.com/Animetailapp/Animetail), also a glorified Mihon it has Anime support and cross-device sync.
         - Anime extensions can be found [here](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo). (copy URL address, Auto install button will NOT work)
     - If need help in installing extensions there are video guides in [Wotaku](https://wotaku.wiki/guides/ext/mihon#video-guides)
