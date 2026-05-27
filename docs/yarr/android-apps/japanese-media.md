@@ -5,11 +5,11 @@ description: Conveniently get Manga, Anime, and Light Novels
 ---
 
 # Manga, Anime, and Light Novels
-Information here rapidly changes, see [Wotaku](https://wotaku.wiki/) and [EverythingMoe](https://everythingmoe.com/) for latest information.
+Information here can be outdated rapidly, see [Wotaku](https://wotaku.wiki/) and [EverythingMoe](https://everythingmoe.com/) for latest information.
 
 ## Manga
 (ranked from preferred to good, top to bottom)
-- [Mihon](https://github.com/mihonapp/mihon)
+- [Mihon](https://github.com/mihonapp/mihon), some forks (backups are fully compatible, so switching between is easy):
     - [Komikku](https://komikku-app.github.io/) ⭐, basically glorified Mihon and has cross-device sync.
     - [Animetail](https://github.com/Animetailapp/Animetail), also a glorified Mihon it has Anime support and cross-device sync.
         - Anime extensions can be found [here](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo). (copy URL address, Auto install button will NOT work)
@@ -24,12 +24,12 @@ Information here rapidly changes, see [Wotaku](https://wotaku.wiki/) and [Everyt
 
 If you have a server: [Sync server for Komikku or Animetail](https://github.com/SyncYomi/SyncYomi) or just use GDrive
 
-See [EverythingMoe](https://everythingmoe.com) for source rankings
-
 :::
 :::info[Extension Repos for everything on Mihon bullet point]
 
 Extensions list: https://wotaku.wiki/guides/ext/mihon
+
+See [EverythingMoe](https://everythingmoe.com) for source rankings
 
 :::
 
@@ -37,10 +37,11 @@ Extensions list: https://wotaku.wiki/guides/ext/mihon
 - [Cloudstream](https://github.com/recloudstream/cloudstream)
     - [See here for setup instructions](/docs/yarr/android-apps/android-apps.md#general-media-anime-movies-tv-series-etc)
 - [Animetail](https://github.com/Animetailapp/Animetail)
+    - See on [Manga entry](#manga) for more info
 - [*arr Suite](/docs/selfhosting/arr.md)
     - Complex to setup
     - Needs a server and a lot of storage
-    - Automatically downloads from you anime lists like MyAnimeList and AniList
+    - Automatically downloads from your anime lists like MyAnimeList and AniList
 
 ## Light Novels
 - [JNovels](https://jnovels.com/)
@@ -49,4 +50,6 @@ Extensions list: https://wotaku.wiki/guides/ext/mihon
 
 ### EPUB Readers
 - [KOReader](https://koreader.rocks/)
-- [LibreraReader](https://librera.mobi/)
+    - Gesture based, has learning curve
+    - Made for EReaders so UI is extremely basic
+- [LibreraReader](https://librera.mobi/download/)
