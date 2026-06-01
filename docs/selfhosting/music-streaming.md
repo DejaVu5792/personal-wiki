@@ -43,6 +43,18 @@ My personal music workflow
 ### Navidrome's Client List
 - See: https://www.navidrome.org/apps/
 
+## Scrobblers
+- [WebScrobbler](https://webscrobbler.com/)
+    - For browsers
+- [PanoScrobbler](https://kawaiidango.github.io/pano-scrobbler/)
+    - For OS level
+    - Recommended for mobile devices, not so much in desktop OSes
+- Server Integrations
+    - Navidrome is built-in for ListenBrainz and Last.fm
+    - Jellyfin
+        - [ListenBrainz](https://github.com/lyarenei/jellyfin-plugin-listenbrainz) plugin
+    - External Service: [MultiScrobbler](https://github.com/FoxxMD/multi-scrobbler)
+
 ## Music Recommendations
 ### From Scrobblers
 - Last.fm
