@@ -114,8 +114,7 @@ protontricks <gameid> mfc140
 
 https://endfield.gryphline.com/en-us#home
 
-- Install launcher through WINE/Bottles/Steam
-    - wine is simplest
+- Install launcher through Steam
 - Download and Install game
 - Add as [non-steam game](#adding-non-steam-game)
     - Game Path:
