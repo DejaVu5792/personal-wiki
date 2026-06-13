@@ -8,12 +8,12 @@ My linux distro recommendations, ordered by usability for a normal user (most to
 
 For installation instructions [click here](./installing-linux.md)
 
-## [Fedora KDE](https://fedoraproject.org/kde/)
+## [Fedora KDE](https://fedoraproject.org/kde/) ⭐
     - Release Cycle: Standard
     - Ease of use Rating: Good
     - Very stable, has a rescue mode if stuff breaks
     - Used by Linus Torvalds himself
-## [Bazzite](https://bazzite.gg/) ⭐
+## [Bazzite](https://bazzite.gg/)
     - Release Cycle: Rolling
     - Ease of use Rating: Dead Simple
     - Both Atomic and Immutable
@@ -24,21 +24,19 @@ For installation instructions [click here](./installing-linux.md)
 ## [CachyOS](https://cachyos.org/)
     :::note[Comments]
 
-    Highly recommended for technical users
+    Arch but with modifications that makes it simpler to use. One such modification is BTRFS snapshots to rollback system if an update borks it.
 
     :::
     - Release Cycle: Rolling
     - Ease of use Rating: Technical
     - Terminal based
     - Atomic
-    - Basically Arch Linux, but with an installer
 ## [EndeavorOS](https://endeavouros.com/)
     - Release Cycle: Rolling
     - Ease of use Rating: Technical
     - Terminal based
-    - Basically CachyOS, but with less "bloat"
     :::note[Comments]
 
-    Use CachyOS instead, unless you want the bare minimum to run but at that point use Arch lol
+    Basically Arch Linux, but with an installer
 
     :::
