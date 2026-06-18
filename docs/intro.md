@@ -72,6 +72,11 @@ Can also work with PC to PC, and Phone to Phone
 - [FileLight](https://apps.kde.org/filelight/)
 ## Bootable USB Flasher
 - [Ventoy](https://github.com/ventoy/Ventoy)
+## Windows Utilities
+- [EarTrumpet](https://eartrumpet.app/) | Per Program volume control
+- [VoluMouse](https://www.nirsoft.net/utils/volumouse.html) | Per Program volume control hotkey
+- [Everything](https://www.voidtools.com/) | System wide File Search that's actually usable
+- [SuperF4](https://github.com/stefansundin/superf4/releases) | End Task hotkey
 ## Gaming
 ### Game Streaming (local)
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/) & [Moonlight](https://moonlight-stream.org/)
