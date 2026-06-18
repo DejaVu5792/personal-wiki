@@ -77,6 +77,7 @@ Can also work with PC to PC, and Phone to Phone
 - [VoluMouse](https://www.nirsoft.net/utils/volumouse.html) | Per Program volume control hotkey
 - [Everything](https://www.voidtools.com/) | System wide File Search that's actually usable
 - [SuperF4](https://github.com/stefansundin/superf4/releases) | End Task hotkey
+- [LinkShellExtension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html#contact) | Generate Symlinks easily
 ## Gaming
 ### Game Streaming (local)
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/) & [Moonlight](https://moonlight-stream.org/)
