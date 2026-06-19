@@ -73,10 +73,16 @@ Can also work with PC to PC, and Phone to Phone
 ## Bootable USB Flasher
 - [Ventoy](https://github.com/ventoy/Ventoy)
 ## Windows Utilities
-- [EarTrumpet](https://eartrumpet.app/) | Per Program volume control
-- [VoluMouse](https://www.nirsoft.net/utils/volumouse.html) | Per Program volume control hotkey
-- [Everything](https://www.voidtools.com/) | System wide File Search that's actually usable
-- [SuperF4](https://github.com/stefansundin/superf4/releases) | End Task hotkey
+### Per Program volume control
+- [EarTrumpet](https://eartrumpet.app/)
+    - Widget, on taskbar
+- [VoluMouse](https://www.nirsoft.net/utils/volumouse.html)
+    - Service, hotkeys
+### System Wide Search
+- [Everything](https://www.voidtools.com/)
+### End Task on Demand
+- [SuperF4](https://github.com/stefansundin/superf4/releases)
+### Easy Symlinks
 - [LinkShellExtension](https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html#contact) | Generate Symlinks easily
     - [Symlinks](https://en.wikipedia.org/wiki/Symbolic_link) are basically shortcuts but better
     - If shorcuts are teleporters, symlinks are portals; programs sees symlinks as if the files are actually there
