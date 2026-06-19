@@ -64,10 +64,19 @@ wine pop-ups like directory selection is not affected by this issue.
 - Download and Install games
     - Remember install path to be used when adding to steam
 
-### Genshin Impact and Zenless Zone Zero
+### Genshin Impact
 - Locate installation path from hoyoplay
 - Add as [non-steam game](#adding-non-steam-game)
 - [Set runner to DWProton](#setting-runner)
+### Zenless Zone Zero
+- Download from Steam: https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
+- Play
+<details>
+    <summary>Old Instructions</summary>
+    - Locate installation path from hoyoplay
+    - Add as [non-steam game](#adding-non-steam-game)
+    - [Set runner to DWProton](#setting-runner)
+</details>
 
 ### Honkai: Star Rail
 - Locate installation path from hoyoplay
