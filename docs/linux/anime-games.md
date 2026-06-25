@@ -71,6 +71,16 @@ wine pop-ups like directory selection is not affected by this issue.
 ### Zenless Zone Zero
 - Download from Steam: https://store.steampowered.com/app/4162040/Zenless_Zone_Zero/
 - Play
+#### Launch game directly
+- Add this to launch options:
+```
+bash -c 'exec "${@/HYP.exe/games\/ZenlessZoneZero Game\/ZenlessZoneZero.exe}"' -- %command% -use-d3d12
+```
+:::note
+
+You can remove `-use-d3d12` if you don't want to use DX12 (Gives DLSS/FSR and Ray Tracing support)
+
+:::
 <details>
     <summary>Old Instructions</summary>
     - Locate installation path from hoyoplay
