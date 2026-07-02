@@ -49,7 +49,7 @@ Replace `URLHERE` with the URL of a playlist, album, or a song from YouTube Musi
 - ["Spotify" | SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) ⭐
     - Gets audio from Tidal, Qobuz, and Amazon Music
     - Only FLAC files
-    - In Development version: [SpotiFLAC Next](https://github.com/spotiverse/SpotiFLAC-Next)
+    - In "Premium" version: [SpotiFLAC Next](https://github.com/spotiverse/SpotiFLAC-Next)
 ### [Squid Network](https://linktr.ee/squid_network)
 - [Squid.wtf](https://squid.wtf/) ⭐
 - [Sitting on Clouds](https://www.sittingonclouds.net/)
