@@ -7,10 +7,10 @@ sidebar_position: 2
 # Miscellaneous
 Links that I do not want to group together lol.
 
-# Specific
+## Specific
 
-## Adobe and Autodesk
-- [m0nkrus](https://w16.monkrus.ws/) ⭐
+### Adobe and Autodesk
+- [m0nkrus](https://monkrus.dvuzu.com/) ⭐
     - [Mirrors](https://pastebin.com/h8C1VWHB)
 :::tip
 
@@ -18,10 +18,11 @@ Use these links for a better experience:
 - uztracker
 - PB.WTF
 :::
-## Microsoft Office and Windows Activation
+### Microsoft Office and Windows Activation
 - [massgravel's MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐
-## Spotify
-- [Spotify Desktop | Spicetify](https://spicetify.app/docs/advanced-usage/installation/) (install with marketplace, install plugin called "adblocktify")
+### Spotify
+#### Desktop
+- [Spicetify](https://spicetify.app/docs/advanced-usage/installation/) (install with marketplace, install plugin called "adblocktify")
     - To Install:
     ```pw
     iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
@@ -30,8 +31,9 @@ Use these links for a better experience:
     ```pw
     spicetify upgrade
     ```
-- [Spotify Mobile | ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
-- [Spotify "Mobile" | SpotiCap](https://gitlab.com/spotihater/spoticap)
+#### Mobile
+- [ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
+- [SpotiCap](https://gitlab.com/spotihater/spoticap)
     - Spotify mobile client-adless
     - Basically a browser wrapper
 - [Melt](https://github.com/FrancescoGrazioso/Meld)
@@ -39,7 +41,11 @@ Use these links for a better experience:
     - Capable of "importing" spotify library
     - Cons: Plays from YouTube music, not direct from Spotify
 
-[For downloading, see this section here](../yarr/downloaders.md#music-specific)
+:::note[[For downloading music, see this section here](../yarr/downloaders.md#music-specific)]
+:::
+
+### Patreon
+- [Pawchive](https://pawchive.st/)
 ## General
 ### 1337x
 - [1337x](https://1337x.to/)
