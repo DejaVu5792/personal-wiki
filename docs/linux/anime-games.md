@@ -78,7 +78,7 @@ bash -c 'exec "${@/HYP.exe/games\/ZenlessZoneZero Game\/ZenlessZoneZero.exe}"' -
 ```
 :::note
 
-You can remove `-use-d3d12` if you don't want to use DX12 (Gives DLSS/FSR and Ray Tracing support)
+You can remove `-use-d3d12` if you don't want to use DX12 (DX12 adds DLSS/FSR and Ray Tracing support)
 
 :::
 <details>
