@@ -14,8 +14,10 @@ List of apps that are useful for getting things.
     - [Mirror link](https://mobilism.me/)
 - [Morphe Patcher](https://morphe.software/)
     - List of additional patches repo: 
-        - [Static Website](https://patch-explorer.web.app/) [(Source)](https://gitlab.com/Paresh-Maheshwari/patch-explorer)
-        - [Reddit Thread](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/)
+        - [Morphe Website](https://morphe-patches.software/#apps)
+        - [Static Website by Paresh](https://patch-explorer.web.app/) [(Source)](https://gitlab.com/Paresh-Maheshwari/patch-explorer)
+        - [Reddit Thread](https://reddit.com/r/MorpheApp/comments/1ta0bek/how_to_patch_more_apps_with_morphe/)
+            - [OLD Reddit Thread](https://www.reddit.com/r/MorpheApp/comments/1recqxc/morphe_manager_patch_index/)
 
 ## General Media (Anime, Movies, TV Series, etc.)
 - [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
