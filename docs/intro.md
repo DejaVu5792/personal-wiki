@@ -73,6 +73,10 @@ Can also work with PC to PC, and Phone to Phone
 ## Bootable USB Flasher
 - [Ventoy](https://github.com/ventoy/Ventoy)
 ## Windows Utilities
+### Powertoys ⭐
+- [Install Documentation](https://learn.microsoft.com/windows/powertoys/install)
+- Powertoys is a collection of utilities developed by microsoft (one of the few non-slop programs they have)
+- List of utilities available on their GitHub: https://github.com/microsoft/powertoys#-utilities
 ### Per Program volume control
 - [EarTrumpet](https://eartrumpet.app/)
     - Widget, on taskbar
