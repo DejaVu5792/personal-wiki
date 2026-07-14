@@ -46,5 +46,6 @@ This section only tackles the purposes of each stack, as I'm too lazy to do a wr
 
 
 ## Extra Resources
-- [Trash Guides](https://trash-guides.info/)
+- [FMHY Section](https://fmhy.net/video#torrent-apps)
 - [Servarr](https://wiki.servarr.com/)
+- [Trash Guides](https://trash-guides.info/)
