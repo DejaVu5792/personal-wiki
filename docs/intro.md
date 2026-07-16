@@ -68,6 +68,8 @@ Can also work with PC to PC, and Phone to Phone
 - [Validrive](https://www.grc.com/validrive.htm)
 - [Valixdrive](https://github.com/cavedon/valixdrive) (have yet to test) (🐧 linux)
 ## Storage Use Visualizer
+- [WinDirStat](https://github.com/windirstat/windirstat#installation)
+    - v2 is now fast af, if you used this before try it again as it no longer slow
 - [WizTree](https://www.diskanalyzer.com/)
 - [FileLight](https://apps.kde.org/filelight/)
 ## Bootable USB Flasher
