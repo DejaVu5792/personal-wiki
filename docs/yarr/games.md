@@ -15,10 +15,21 @@ Useful gaming related resources.
 ## WeMod
 - [Wand](https://github.com/k1tbyte/Wemod-Patcher)
 
+## Launchers
+- [Hydralauncher](https://hydralauncher.gg/)
+    - [Sources](https://library.hydra.wiki/sources/)
+        - I personally recommend these sources:
+            - FitGirl
+            - DODI
+            - SteamRIP
+            - RexaGames
+            - OnlineFix
+- [Ascendara](https://ascendara.app/)
+    - Gets from FitGirl and SteamRIP
+
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
 - [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed) ⭐
-    - [Launcher for autodownload (experimental support)](https://ascendara.app/)
 :::tip
 
 Use [qBittorent](https://www.qbittorrent.org/download).
@@ -27,7 +38,6 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 ## Direct Download
 - [OvaGames](https://www.ovagames.com/)
 - [SteamRip](https://steamrip.com/)
-    - [Launcher for autodownload](https://ascendara.app/)
 - [GOG](https://gog-games.to/)
 - [RexaGames](https://rexagames.com/)
 - [IGG-Games](https://igg-games.com/) (LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol))
