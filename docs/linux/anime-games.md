@@ -82,7 +82,7 @@ You can remove `-use-d3d12` if you don't want to use DX12 (DX12 adds DLSS/FSR an
 
 :::
 <details>
-    <summary>Old Instructions</summary>
+    <summary>Using HoYoPlay instead of steam</summary>
     - Locate installation path from hoyoplay
     - Add as [non-steam game](#adding-non-steam-game)
     - [Set runner to DWProton](#setting-runner)
@@ -91,42 +91,55 @@ You can remove `-use-d3d12` if you don't want to use DX12 (DX12 adds DLSS/FSR an
 ### Honkai: Star Rail
 - Locate installation path from hoyoplay
 - Add as [non-steam game](#adding-non-steam-game)
-- Download [Jadeite](https://codeberg.org/mkrsym1/jadeite)
-- In Steam TARGET set it to:
-```
-"/path/to/jadeite.exe" "/path/to/StarRail.exe"
-```
 - [Set runner to DWProton](#setting-runner)
-#### Fix bug where game would blur after normal attacking
-1. Get protontricks through your distro's packagemanager
-    - You can also install through [uv](../intro#python-package-manager)
-        - This can be done by
-        ```bash
-        uv tool install protontricks
-        ```
-        - or use it temporarily by
-        ```bash
-        uvx protontricks
-        ```
-        (if done through this method add `uvx` before `protontricks` in the terminal)
-2. Use protontricks to determine game ID 
-```bash
-protontricks --list
-```
-:::note
-Example output in terminal:
-```bash
-protontricks --list
-Non-Steam shortcut: Honkai: Star Rail (3251622364)
-```
+<details>
+    <summary>If using non-dwproton</summary>
+    :::warning
 
-Where: `3251622364` is the Game ID
+    jadeite is now deprecated and no longer receives updates
 
-:::
-3. Install mfc140, replace `gameid` with the output in protontricks
-```bash
-protontricks <gameid> mfc140
-```
+    "This project is not maintained anymore. Most games using the targeted anticheat, including versions with the kernel driver, can now run on Wine. Most mainstream Protons now have the necessary patches, and work on getting them upstream is underway. For the best experience use [DWProton](https://dawn.wine/dawn-winery/dwproton) or [Spritz Wine](https://github.com/NelloKudo/spritz-wine)." -jadeite README
+
+    :::
+    - Download [Jadeite](https://codeberg.org/mkrsym1/jadeite)
+    
+    - In Steam TARGET set it to:
+    ```
+    "/path/to/jadeite.exe" "/path/to/StarRail.exe"
+    ```    
+</details>
+<details>
+    <summary>Fix bug where game would blur after normal attacking</summary>
+    1. Get protontricks through your distro's packagemanager
+        - You can also install through [uv](../intro#python-package-manager)
+            - This can be done by
+            ```bash
+            uv tool install protontricks
+            ```
+            - or use it temporarily by
+            ```bash
+            uvx protontricks
+            ```
+            (if done through this method add `uvx` before `protontricks` in the terminal)
+    2. Use protontricks to determine game ID 
+    ```bash
+    protontricks --list
+    ```
+    :::note
+    Example output in terminal:
+    ```bash
+    protontricks --list
+    Non-Steam shortcut: Honkai: Star Rail (3251622364)
+    ```
+
+    Where: `3251622364` is the Game ID
+
+    :::
+    3. Install mfc140, replace `gameid` with the output in protontricks
+    ```bash
+    protontricks <gameid> mfc140
+    ```
+</details>
 
 ## Arknights Endfield
 - Download launcher at:
