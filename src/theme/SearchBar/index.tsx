@@ -41,8 +41,7 @@ const extraSearchProps = {
         .join(' / ')
       return (
         `<span style="display:block;text-align:left;color:var(--text-color-inactive,#99989d);` +
-        `font-size:0.8em;line-height:1.4;margin-bottom:4px;white-space:nowrap;">${breadcrumb}</span>` +
-        `<span style="white-space:normal;">${item.content}</span>`
+        `font-size:0.8em;line-height:1.4;margin-bottom:4px;white-space:nowrap;">${breadcrumb}</span>`
       )
     }
   }
