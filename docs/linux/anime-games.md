@@ -56,7 +56,7 @@ https://hoyoplay.hoyoverse.com/
 
 :::warning
 
-Mouse cursor is currently bugged, offset by a little bit. Look for button highlighting instead of relying in cursor visual.
+Mouse cursor is bugged in some versions of wine/proton, offset by a little bit. Look for button highlighting instead of relying in cursor visual.
 
 wine pop-ups like directory selection is not affected by this issue.
 
