@@ -90,6 +90,7 @@ const config: Config = {
       {
         searchbox: {
           placeholder: "Search...",
+          linksTarget: "_self",
         },
         searchButton: {
           text: "Click here to search..."
