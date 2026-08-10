@@ -21,6 +21,7 @@ Use these links for a better experience:
 ### Microsoft Office and Windows Activation
 - [massgravel's MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐
 ### Spotify
+Clients and modifications for Spotify.
 #### Desktop
 - [Spicetify](https://spicetify.app/docs/advanced-usage/installation/) (install with marketplace, install plugin called "adblocktify")
     - To Install:
