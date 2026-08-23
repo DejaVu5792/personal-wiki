@@ -49,8 +49,9 @@ Clients and modifications for Spotify.
 - [Pawchive](https://pawchive.st/)
 ### [StreamIO](https://www.stremio.com/)
 - "Stremio is a modern media center that gives you the freedom to watch everything you want."
+- Basically [Cloudstream](./android-apps/#general-media-anime-movies-tv-series-etc) but cross platform
 - Viren070's Guide: https://guides.viren070.me/stremio/setup
-    - [Addons](https://guides.viren070.me/stremio/setup?desktop-os=linux#stream-provider-addons)
+    - [Addons](https://guides.viren070.me/stremio/setup#general-addons)
 ## General
 ### 1337x
 - [1337x](https://1337x.to/)
