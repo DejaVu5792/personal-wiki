@@ -49,7 +49,7 @@ Clients and modifications for Spotify.
 - [Pawchive](https://pawchive.st/)
 ### [StreamIO](https://www.stremio.com/)
 - "Stremio is a modern media center that gives you the freedom to watch everything you want."
-- Viren070's Guide: https://guides.viren070.me/stremio/intro
+- Viren070's Guide: https://guides.viren070.me/stremio/setup
     - [Addons](https://guides.viren070.me/stremio/setup?desktop-os=linux#stream-provider-addons)
 ## General
 ### 1337x
