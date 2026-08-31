@@ -50,6 +50,10 @@ List of apps that are useful for getting things.
 
     :::
     </details>
+:::tip[Also see]
 
+[StreamIO](../miscellaneous.md#streamio) has multi-device sync and more native apps in multiple OSes.
+
+:::
 ## List of Other Sections
 <DocCardList />
