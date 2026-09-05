@@ -6,14 +6,15 @@ title: "Media Aggregators"
 Streaming site aggregators
 
 ## Quick Comparison to Apps
-|   Attribute   | [Cloudstream](#cloudstream-)                 | [Nuvio](#nuvio-)                      | [StreamIO](#streamio)                               |
-| :-----------: | :------------------------------------------- | :------------------------------------ | :-------------------------------------------------- |
-|  Ease of Use  | Very Easy                                    | Easy                                  | Easy                                                |
-|     Setup     | Easy                                         | Very Easy when using an account       | Easy when using an account                          |
-|  Extensions   | Expansive, but very hit or miss              | Expansive, but difficult to configure | Expansive, but difficult to configure               |
-| Multi-Device  | Scuffed                                      | Full Support (Need Sign-In)           | Full Support (Need Sign-In)                         |
-|   Profiles    | Supported, split watch history               | Supported, split watch history        | Supported, paid                                     |
-| TV Experience | Difficult to add extensions, hard to install | Very easy, especially in Android TV   | Need "sideloading" and account sign for plugin sync |
+|    Attribute     | [Cloudstream](#cloudstream-)                 | [Nuvio](#nuvio-)                                      | [StreamIO](#streamio)                               |
+| :--------------: | :------------------------------------------- | :---------------------------------------------------- | :-------------------------------------------------- |
+|   Ease of Use    | Very Easy                                    | Easy                                                  | Easy                                                |
+| Platform Support | Android Ecosystem Only                       | Android, iOS, Android TV, PC, Samsung Tizen, LG webOS | Yes                                                 |
+|      Setup       | Easy                                         | Very Easy when using an account                       | Easy when using an account                          |
+|    Extensions    | Expansive, but very hit or miss              | Expansive, but difficult to configure                 | Expansive, but difficult to configure               |
+|   Multi-Device   | Scuffed                                      | Full Support (Need Sign-In)                           | Full Support (Need Sign-In)                         |
+|     Profiles     | Supported, split watch history               | Supported, split watch history                        | Supported, paid                                     |
+|  TV Experience   | Difficult to add extensions, hard to install | Very easy, especially in Android TV                   | Need "sideloading" and account sign for plugin sync |
 
 ## [Cloudstream](https://github.com/recloudstream/cloudstream) ⭐
 - Support Direct Streaming and P2P(Torrenting) sources
