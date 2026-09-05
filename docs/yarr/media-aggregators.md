@@ -46,15 +46,14 @@ Streaming site aggregators
 - "A free, open-source media app for your phone, your desktop, and the TV you already own. Bring your own sources. Nuvio turns them into a library with artwork, ratings, subtitles, and your place saved on every screen."
 - Supports StreamIO extensions
 - Has account system for cross device sync
-- Also supports WebOS(LG) and Tizen(Samsung)
-    - Install instructions:
-        - [WebOS](https://nuvio.wiki/installation/webos)
-        - [Tizen](https://nuvio.wiki/installation/tizen)
+- Also supports LG WebOS and Samsung Tizen
+    - Install instructions for [WebOS](https://nuvio.wiki/installation/webos) or [Tizen](https://nuvio.wiki/installation/tizen)
 - Nuvio Wiki: https://nuvio.wiki
     - [Addons](https://nuvio.wiki/integrations/addons#stream-scraper-addons)
 
 :::tip[TLDR Setup Guide]
 1. Download Nuvio Client from https://nuvio.tv/#get
+    - Installing from Google Play will disable "Plugins" feature (less sources)
 2. ***Optionally*** sign in/sign up (Recommended)
     - Allows cross device sync
     - Addon, Profile, and Plugin setup via web at https://nuvio.tv/account?tab=overview
