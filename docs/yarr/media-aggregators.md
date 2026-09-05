@@ -50,6 +50,7 @@ Streaming site aggregators
     - Install instructions for [WebOS](https://nuvio.wiki/installation/webos) or [Tizen](https://nuvio.wiki/installation/tizen)
 - Nuvio Wiki: https://nuvio.wiki
     - [Addons](https://nuvio.wiki/integrations/addons#stream-scraper-addons)
+    - [Plugins](https://nuvio-plugin-library.vercel.app/)
 
 :::tip[TLDR Setup Guide]
 1. Download Nuvio Client from https://nuvio.tv/#get
@@ -60,9 +61,12 @@ Streaming site aggregators
 3. Add https://torrentio.strem.fun/ as a addon source.
     - If signed in, able to add at https://nuvio.tv/account?tab=addons
     - If on TV, go to Settings>General>Content & Discovery>Addons then show QR to manage addons using phone
-4. Search for show
-5. ???
-6. Profit
+4. ***Optionally*** add [plugins](https://nuvio-plugin-library.vercel.app/) for even more sources:
+    - Phisher: https://raw.githubusercontent.com/phisher98/phisher-nuvio-providers/refs/heads/main/manifest.json
+    - D3adlyRocket: https://raw.githubusercontent.com/D3adlyRocket/All-in-One-Nuvio/refs/heads/main/manifest.json
+5. Search for show or movie
+6. ???
+7. Profit
 
 :::
 ## [StreamIO](https://www.stremio.com/)
