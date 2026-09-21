@@ -5,6 +5,7 @@ Methods to get some mod loaders to work in linux
 - ***This section is WIP***
 - This can be done through UI using Heroic Games Launcher or in Lutris
 - Can also be done through `protontricks` if in Steam, or `winetricks` if not
+    - `protontricks APPID winecfg`
 
 ### Steam
 
@@ -13,6 +14,11 @@ Methods to get some mod loaders to work in linux
 ### Lutris
 
 ## Unity
+
+### Mod Managers
+#### Thunderstore
+- [Gale](https://github.com/Kesomannen/gale)
+- [r2modman](https://github.com/ebkr/r2modmanPlus)
 
 ### BepInEx
 :::note[Official Documentation]
@@ -30,9 +36,16 @@ https://docs.bepinex.dev/articles/advanced/proton_wine.html
 https://melonwiki.xyz/#/?id=linux-launch-instructions
 
 :::
-- Open [`winecfg`](#opening-winecfg) on your prefix
-- In libraries tab of `winecfg` add "version" from the dropdown
-- Click Apply and Ok
+- In steam launch options add
+```
+WINEDLLOVERRIDES="version=n,b" %command%
+```
+<details>
+    <summary>Alternate Method</summary>
+    - Open [`winecfg`](#opening-winecfg) on your prefix
+    - In libraries tab of `winecfg` add "version" from the dropdown
+    - Click Apply and Ok
+</details>
 
 ## Game Specific
 ### Helldivers 2
