@@ -54,6 +54,11 @@ If you'd rather not have another app installed
   <TabItem value="Morphe" label="Morphe ⭐">
     <details>
     <summary>Click here to see Morphe Instructions</summary>
+    :::note[Official Documentation]
+
+    https://github.com/MorpheApp/morphe-manager/blob/main/docs%2FREADME.md
+
+    :::
     1. Download [Morphe Manager](https://morphe.software/)
     2. Open manager
     3. Tap YouTube
