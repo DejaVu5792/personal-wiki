@@ -59,6 +59,11 @@ If you'd rather not have another app installed
     https://github.com/MorpheApp/morphe-manager/blob/main/docs%2FREADME.md
 
     :::
+    :::tip[APK Download Helper]
+
+    Optional, get [Helper for Morphe](https://github.com/rushiranpise/helper-for-morphe) to automate downloading clean APKs (Skips step 4-6)
+
+    :::
     1. Download [Morphe Manager](https://morphe.software/)
     2. Open manager
     3. Tap YouTube
