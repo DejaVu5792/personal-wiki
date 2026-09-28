@@ -34,9 +34,11 @@ Clients and modifications for Spotify.
     ```
 #### Mobile
 - [ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
-- [SpotiCap](https://gitlab.com/spotihater/spoticap)
+- [Spotilol](https://github.com/lyssadev/Spotilol)
     - Spotify mobile client-adless
     - Basically a browser wrapper
+    - Fork of Spotifuck
+        - Another alternative: https://github.com/23fpsz/SpotiDuck-Releases
 - [Melt](https://github.com/FrancescoGrazioso/Meld)
     - Fork of Metrolist
     - Capable of "importing" spotify library
