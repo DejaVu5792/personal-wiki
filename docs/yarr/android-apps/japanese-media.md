@@ -35,7 +35,7 @@ See [EverythingMoe](https://everythingmoe.com) for source rankings
 
 ## Anime
 - [Cloudstream](https://github.com/recloudstream/cloudstream)
-    - [See here for setup instructions](/docs/yarr/android-apps/android-apps.md#general-media-anime-movies-tv-series-etc)
+    - [See here for setup instructions](/docs/yarr/media-aggregators#cloudstream-)
 - [Animetail](https://github.com/Animetailapp/Animetail)
     - See on [Manga entry](#manga) for more info
 - [*arr Suite](/docs/selfhosting/arr.md)
