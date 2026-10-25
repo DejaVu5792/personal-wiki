@@ -55,5 +55,6 @@ Clients and modifications for Spotify.
 ### Android Apps
 - [Mobilism](http://mobilism.org/)
 ### EBooks
-- [annas-archive](https://annas-archive.gl/) ⭐
-    - see URL section in [wikipedia](https://en.wikipedia.org/wiki/Anna's_Archive) for upto date mirrors
+- annas-archive ⭐
+    - See URL section in [wikipedia](https://en.wikipedia.org/wiki/Anna's_Archive) for upto date mirrors
+    - If the "annas-archive" asks for payment do not pay, you're probably in a fake site
