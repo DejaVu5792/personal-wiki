@@ -14,5 +14,25 @@ description: Allows you to get auto updates directly from the developer
 
 https://apps.obtainium.imranr.dev/
 
-## Adding GitHub through URL
-- To be written
+## Adding GitHub Apps through URL
+1. Open Obtainium
+2. Tap the add button
+
+![](../../../static/img/obsidian/mainScreen.png)
+
+3. Add URL in "App source URL" (see 1 in picture), then the plus icon (see 2 in picture)
+
+![](../../../static/img/obsidian/addScreen.png)
+
+4. Finally tap the install button
+
+![](../../../static/img/obsidian/installScreen.png)
+
+    - First install Android will prompt to allow obtainium to install unkown apps, allow this
+
+<details>
+    <summary>Other sources info</summary>
+
+    Although this write up only shows GitHub URLs being used, other services are supported by obtainium. A list can be seen in the bottom left of the add screen.
+    ![](../../../static/img/obsidian/addScreenEmpty.png)
+</details>
