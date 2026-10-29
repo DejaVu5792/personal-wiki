@@ -4,6 +4,8 @@ authors:
 title: Miscellaneous
 sidebar_position: 2
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # Miscellaneous
 Links that I do not want to group together lol.
 
@@ -34,12 +36,10 @@ Clients and modifications for Spotify.
     ```
 #### Mobile
 - [ReVanced/XManager](https://discord.gg/QvgYsrb8Q3) (currently borked)
-- [Spotilol](https://github.com/lyssadev/Spotilol)
+- [mySpoti](https://github.com/kota-zo/myspoti) [<img src={useBaseUrl('/img/iconObtainium.png')} alt="Obtainium" style={{ height: '1em', width: 'auto', verticalAlign: '-0.125em' }} />](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/kota-zo/myspoti)
     - Spotify mobile client-adless
     - Basically a browser wrapper
-    - Fork of Spotifuck
-        - Another alternative: https://github.com/23fpsz/SpotiDuck-Releases
-- [Melt](https://github.com/FrancescoGrazioso/Meld)
+- [Melt](https://github.com/FrancescoGrazioso/Meld) [<img src={useBaseUrl('/img/iconObtainium.png')} alt="Obtainium" style={{ height: '1em', width: 'auto', verticalAlign: '-0.125em' }} />](https://apps.obtainium.imranr.dev/redirect?r=obtainium://add/https://github.com/FrancescoGrazioso/Meld)
     - Fork of Metrolist
     - Capable of "importing" spotify library
     - Cons: Plays from YouTube music, not direct from Spotify
