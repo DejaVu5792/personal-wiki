@@ -12,11 +12,8 @@ Useful gaming related resources.
     - [CreamInstaller download : r/Creaminstaller](https://www.reddit.com/r/Creaminstaller/comments/1h9mqjr/creaminstaller_download/)
 - [Creamlinux](https://github.com/Novattz/creamlinux-installer) (🐧 Linux)
 
-## WeMod
-- [Wand](https://github.com/k1tbyte/Wemod-Patcher)
-
 ## Launchers
-- [Hydralauncher](https://hydralauncher.gg/)
+### [Hydralauncher](https://hydralauncher.gg/)
     - [Sources](https://library.hydra.wiki/sources/)
         - I personally recommend these sources:
             - FitGirl
@@ -24,8 +21,32 @@ Useful gaming related resources.
             - SteamRIP
             - RexaGames
             - OnlineFix
-- [Ascendara](https://ascendara.app/)
+### [Ascendara](https://ascendara.app/)
     - Gets from FitGirl and SteamRIP
+### [Recomplauncher](https://recomplauncher.com/)
+    - Catalogue of recomps
+    - Has cloud save and may have multiple versions per game available
+    - Community ranking on recomps
+
+## Emulators
+### Switch
+:::tip[Extra Resources]
+Links are encoded as Base64, [use this to get links](https://www.base64decode.org/)
+- Firmware: `aHR0cHM6Ly9naXRodWIuY29tL1RIWm9yaWEvTlhfRmlybXdhcmU=`
+- ROMs: `aHR0cHM6Ly9yb21zbGFiLmNvbQ==`
+
+:::
+- [Lichii](https://github.com/zortos293/Lichii)
+    - PC only
+    - Sw2 support
+- [Eden](https://git.eden-emu.dev/eden-emu/eden)
+    - Cross Platform
+    - Only Sw1 currently
+- [BananaNative](https://git.eden-emu.dev/moceure/BananaNative)
+    - Android only
+    - Sw2 Support
+- [Recomplauncher](https://recomplauncher.com/)
+    - [See above/here](#recomplauncher) for details
 
 ## Torrent
 - [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
@@ -49,6 +70,8 @@ Use [qBittorent](https://www.qbittorrent.org/download).
 - [Playnite](https://playnite.link/)
 - [GOG Galaxy](https://gog-games.to/)
 ## Misc
+### WeMod
+- [Wand](https://github.com/k1tbyte/Wemod-Patcher)
 ### Steam Underground
 - https://cs.rin.ru/
 :::warning[This website requires login.]
