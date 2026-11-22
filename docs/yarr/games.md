@@ -49,26 +49,30 @@ Links are encoded as Base64, [use this to get links](https://www.base64decode.or
     - [See above/here](#recomplauncher) for details
 
 ## Torrent
-- [DODI](https://dodi-repacks.site/) (Bigger download less compressed)
-- [FitGirl](http://fitgirl-repacks.site/) (Smaller download more compressed) ⭐
+### [DODI](https://dodi-repacks.site/)
+    - Original owner "retired" proceed with caution
+    - Bigger download less compressed
+### [FitGirl](http://fitgirl-repacks.site/) ⭐
+    - Smaller download more compressed 
 :::tip
 
 Use [qBittorent](https://www.qbittorrent.org/download).
 
 :::
 ## Direct Download
-- [OvaGames](https://www.ovagames.com/)
-- [SteamRip](https://steamrip.com/)
-- [GOG](https://gog-games.to/)
-- [RexaGames](https://rexagames.com/)
-- [IGG-Games](https://igg-games.com/) (LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol))
+### [OvaGames](https://www.ovagames.com/)
+### [SteamRip](https://steamrip.com/)
+### [GOG](https://gog-games.to/)
+### [RexaGames](https://rexagames.com/)
+### [IGG-Games](https://igg-games.com/)
+    -  LAST RESORT, HAD HISTORY OF VIRUS (yet i still use lol)
 ## Multiplayer
 - [Online Fix Me](https://online-fix.me/)
 :::warning[This website requires login.]
 :::
 ## Global Launcher
-- [Playnite](https://playnite.link/)
-- [GOG Galaxy](https://gog-games.to/)
+### [Playnite](https://playnite.link/)
+### [GOG Galaxy](https://gog-games.to/)
 ## Misc
 ### WeMod
 - [Wand](https://github.com/k1tbyte/Wemod-Patcher)
