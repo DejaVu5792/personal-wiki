@@ -87,6 +87,38 @@ You can remove `-use-d3d12` if you don't want to use DX12 (DX12 adds DLSS/FSR an
     - Add as [non-steam game](#adding-non-steam-game)
     - [Set runner to DWProton](#setting-runner)
 </details>
+#### XXMI in Steam ZZZ
+<details>
+    <summary>Click here for instructions</summary>
+
+    :::note[Primary Source]
+    https://github.com/SpectrumQT/XXMI-Launcher/issues/253#issuecomment-3633741274
+    :::
+
+    - Download [Latest Portable XXMI](https://github.com/SpectrumQT/XXMI-Launcher/releases/latest)
+    - Extract to ZZZ Steam's game installation
+        - You can get this by right clicking ZZZ in steam list then manage>Browser Local Files
+        - XXMI's folder should be called "XXMI Launcher", this folder should be in same folder as HYP.exe
+        - Your folder structure should look similar to this:
+        ![](../../static/img/zzz-xxmi/XXMIFolderStruct.png)
+    
+    - Set Launch options to:
+    ```bash
+    cmd=(%command%); cmd[-1]="$PWD/XXMI Launcher/Resources/Bin/XXMI Launcher.exe"; SteamOS=1 "${cmd[@]}" #--nogui --xxmi ZZMI
+    ```
+    - Launch game, this should launch XXMI
+        - In XXMI in ZZZ's settings set game dir exactly to:- 
+        ```bash
+        S:\steamapps\common\Zenless Zone Zero\games\ZenlessZoneZero Game
+        ```
+        - (Ignore warning)
+        ![](../../static/img/zzz-xxmi/XXMILauncherConfig.png)
+    - Press Start if game starts with no issues remove the # before the `--nogui --xxmi ZZMI` in launch arg
+    ```bash
+    cmd=(%command%); cmd[-1]="$PWD/XXMI Launcher/Resources/Bin/XXMI Launcher.exe"; SteamOS=1 "${cmd[@]}" --nogui --xxmi ZZMI
+    ```
+
+</details>
 
 ### Honkai: Star Rail
 - Locate installation path from hoyoplay
